@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T06:31:29.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="W74nd7Y5VsSEeDYpkrx9" version="21.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-04T06:31:47.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="C7AAaBePWatUrsviTpsb" version="21.2.6" type="github" pages="3">
   <diagram name="Page-1" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="696" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="wDb5OkVZK4pMJVH9-ici-1" value="Merge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wDb5OkVZK4pMJVH9-ici-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wDb5OkVZK4pMJVH9-ici-2" value="Join Left" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
