@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T08:17:57.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="-GQvuYT7UfzUc8UNdwfr" version="21.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-10T08:19:29.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="UtpGImYsXMhZpUrkc5FE" version="21.2.9" type="github" pages="4">
   <diagram name="KESELURUHAN" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="698" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -132,8 +132,9 @@
             <mxPoint x="340" y="350" as="sourcePoint" />
             <mxPoint x="390" y="300" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="560" y="270" />
               <mxPoint x="520" y="270" />
-              <mxPoint x="680" y="270" />
+              <mxPoint x="780" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,6 +142,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="350" as="sourcePoint" />
             <mxPoint x="390" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="270" />
+              <mxPoint x="630" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E9VO3AmAqyyclTp5s0JP-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="E9VO3AmAqyyclTp5s0JP-3" target="E9VO3AmAqyyclTp5s0JP-5" edge="1">
@@ -148,8 +153,9 @@
             <mxPoint x="340" y="350" as="sourcePoint" />
             <mxPoint x="380" y="300" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="560" y="270" />
               <mxPoint x="520" y="270" />
-              <mxPoint x="360" y="270" />
+              <mxPoint x="480" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -158,8 +164,10 @@
             <mxPoint x="340" y="350" as="sourcePoint" />
             <mxPoint x="390" y="300" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="560" y="270" />
               <mxPoint x="520" y="270" />
-              <mxPoint x="200" y="270" />
+              <mxPoint x="470" y="270" />
+              <mxPoint x="330" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
