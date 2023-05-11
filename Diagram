@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T00:29:21.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="fPQHHZrKlF-9SQ7PBB6Y" version="21.2.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-11T00:32:45.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="sg0VI6sKLxRkQJjarjfh" version="21.2.9" type="github" pages="5">
   <diagram name="KESELURUHAN" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="698" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -221,10 +221,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iuC8w-oO42WzcFNuyumL" name="Physical Delivery Level 2">
-    <mxGraphModel dx="698" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jljbRHLNZimulKWD5zcR-1" value="Sheet Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jljbRHLNZimulKWD5zcR-2" value="Sheet Sebelumnya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jljbRHLNZimulKWD5zcR-3" value="Sheet Shipment Pending Delivery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jljbRHLNZimulKWD5zcR-4" value="Summary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jljbRHLNZimulKWD5zcR-5" value="YU LG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
