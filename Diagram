@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T06:48:44.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="3J4N2gDcG9EnK7Z_OFxb" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-15T06:49:32.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="61uN0tCUB0tYwSZoTu8t" version="21.2.9" type="github" pages="7">
   <diagram name="KESELURUHAN" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="698" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -547,6 +547,15 @@
         </mxCell>
         <mxCell id="VAEFjDvyIH8GqECUqPPB-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VAEFjDvyIH8GqECUqPPB-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VAEFjDvyIH8GqECUqPPB-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="590" as="sourcePoint" />
+            <mxPoint x="250" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VAEFjDvyIH8GqECUqPPB-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
