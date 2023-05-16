@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T00:58:59.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="oAvSmO7B8cuZ4xnDLhG2" version="21.3.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-16T00:59:55.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="mXNjsbz80EAWM_kiUWVr" version="21.3.0" type="github" pages="7">
   <diagram name="KESELURUHAN" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="698" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -599,7 +599,7 @@
             <mxPoint x="590" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gquMNcfVCIiCmj7lrp8P-10" value="Last Shipment Pending Delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gquMNcfVCIiCmj7lrp8P-10" value="Last Shipment Pending Delivery File in Folder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="720" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
