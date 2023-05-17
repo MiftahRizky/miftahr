@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T03:22:43.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="yCqSRl7PvCI090w8SNAQ" version="21.3.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-17T03:24:19.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="9HnHRm_UD-X23DJ-ipeo" version="21.3.2" type="github" pages="7">
   <diagram name="KESELURUHAN" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="698" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,6 +130,9 @@
             <mxPoint x="410" y="210" as="sourcePoint" />
             <mxPoint x="460" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-4" value="Tanggal Terima Dokumen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
