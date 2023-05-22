@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T03:10:00.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="vpcJxPw9foF6wMN-kfpr" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-22T03:13:10.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="b1kRMbIX7Nte5lHzhArT" version="21.3.2" type="github" pages="11">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
         <mxCell id="iy2ITPSXw_3fPNaWaloX-28" value="LEVEL 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iy2ITPSXw_3fPNaWaloX-1">
           <mxGeometry x="400" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DWa6O3p5B-8Wtot-NgqT-0" value="Data Stores" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="iy2ITPSXw_3fPNaWaloX-1">
+        <mxCell id="DWa6O3p5B-8Wtot-NgqT-0" value="Data Source" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="iy2ITPSXw_3fPNaWaloX-1">
           <mxGeometry x="225" y="233.75" width="120" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="DWa6O3p5B-8Wtot-NgqT-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iy2ITPSXw_3fPNaWaloX-1" source="iy2ITPSXw_3fPNaWaloX-4" target="DWa6O3p5B-8Wtot-NgqT-0">
