@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T02:36:43.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="_Cv-zOyFKh9ImOWzH3Kb" version="21.3.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-05-22T02:38:21.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="W3W6cOjD0oE31BrAsyGT" version="21.3.2" type="github" pages="12">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -460,8 +460,20 @@
             <mxPoint x="460" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DWa6O3p5B-8Wtot-NgqT-0" value="Data Stores Local Folder" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="iy2ITPSXw_3fPNaWaloX-1">
-          <mxGeometry x="330" y="350" width="120" height="90" as="geometry" />
+        <mxCell id="DWa6O3p5B-8Wtot-NgqT-0" value="Data Stores Local Folder (XLS Files)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="iy2ITPSXw_3fPNaWaloX-1">
+          <mxGeometry x="325" y="350" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DWa6O3p5B-8Wtot-NgqT-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="iy2ITPSXw_3fPNaWaloX-1" source="iy2ITPSXw_3fPNaWaloX-4" target="DWa6O3p5B-8Wtot-NgqT-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWa6O3p5B-8Wtot-NgqT-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iy2ITPSXw_3fPNaWaloX-1" source="DWa6O3p5B-8Wtot-NgqT-0" target="iy2ITPSXw_3fPNaWaloX-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="510" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
