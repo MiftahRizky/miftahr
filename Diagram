@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T02:44:30.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="cAaJdrzuZs6ot89D6QeO" version="21.3.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-23T02:45:17.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="7Q0vjEcmHp7pR-41ooLw" version="21.3.2" type="github" pages="11">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1098,45 +1098,6 @@
         </mxCell>
         <mxCell id="gquMNcfVCIiCmj7lrp8P-20" value="Summary From Newest Sheet Master (Pivot Table)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="780" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-1" value="Type" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="880" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-3" value="Loco/ Franco" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="880" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-4" value="Date" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="880" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-54LIbab0vbgsPpnN5W0-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="880" as="sourcePoint" />
-            <mxPoint x="80" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-6" value="Model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="970" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-54LIbab0vbgsPpnN5W0-3" target="-54LIbab0vbgsPpnN5W0-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="960" as="sourcePoint" />
-            <mxPoint x="200" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="970" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-54LIbab0vbgsPpnN5W0-4" target="-54LIbab0vbgsPpnN5W0-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="960" as="sourcePoint" />
-            <mxPoint x="320" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="970" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-54LIbab0vbgsPpnN5W0-11" value="Note : All Data No Duplicate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="920" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qxnds3oygBt_I0qzevwL-1" value="Physical Delivery Level 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="373" y="10" width="105" height="30" as="geometry" />
