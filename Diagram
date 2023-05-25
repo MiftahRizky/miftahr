@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T02:21:22.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="7X1kwVD6p9n_Hr3a-Zyl" version="21.3.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-25T02:21:35.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="DcqqKGO2yfDacOWh9b98" version="21.3.3" type="github" pages="11">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -494,7 +494,7 @@
             <mxPoint x="680" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AdlflHzq3vsElnvy6sBn-38" value="Power Query" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iy2ITPSXw_3fPNaWaloX-1">
+        <mxCell id="AdlflHzq3vsElnvy6sBn-38" value="Power Query M Code" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iy2ITPSXw_3fPNaWaloX-1">
           <mxGeometry x="355" y="730" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AdlflHzq3vsElnvy6sBn-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="iy2ITPSXw_3fPNaWaloX-1" source="AdlflHzq3vsElnvy6sBn-38" target="Vby1NphXbjOXojLVQRTh-0">
