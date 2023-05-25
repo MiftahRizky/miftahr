@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T03:27:12.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="h2SrNcWc0u1DslqU26W4" version="21.3.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-25T03:31:03.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="6J1hhei8gONRfzX1nHyw" version="21.3.3" type="github" pages="12">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,6 +76,14 @@
         <mxCell id="wDb5OkVZK4pMJVH9-ici-12" value="Dinamis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="830" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Kebutuhan" id="kCr3ZngT4QEyJO5qXoT8">
+    <mxGraphModel dx="1420" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="gftZD_zC7OQcntndDJW2-0" />
+        <mxCell id="gftZD_zC7OQcntndDJW2-1" parent="gftZD_zC7OQcntndDJW2-0" />
       </root>
     </mxGraphModel>
   </diagram>
