@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T07:37:14.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="o98n7gfULLt1NvS4la1M" version="21.3.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-06-01T07:37:39.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="jSr-cL2meYiyqFKhXbwp" version="21.3.6" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KESELURUHAN LEVEL 1" id="zvwqKSVQRV0Smx_VA0y2">
-    <mxGraphModel dx="976" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="g3-Y-bsuolSWBWQdcODF-0" />
         <mxCell id="g3-Y-bsuolSWBWQdcODF-1" parent="g3-Y-bsuolSWBWQdcODF-0" />
@@ -226,9 +226,6 @@
             <mxPoint x="400" y="390" as="sourcePoint" />
             <mxPoint x="450" y="340" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="g3-Y-bsuolSWBWQdcODF-29" value="LEVEL 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="g3-Y-bsuolSWBWQdcODF-1" vertex="1">
-          <mxGeometry x="365" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c-2Nj1uqbgiBKpyu3v73-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="g3-Y-bsuolSWBWQdcODF-1" source="c-2Nj1uqbgiBKpyu3v73-5" target="g3-Y-bsuolSWBWQdcODF-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
