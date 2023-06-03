@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T05:23:35.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="cij-Fv-3Xaxray6ghNPp" version="21.3.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-03T05:24:53.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="vyH4xuzDEGyfyM5EQyaW" version="21.3.7" type="github" pages="14">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,51 +178,51 @@
           <mxGeometry x="320" y="420" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-19" value="YU LG 009" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gftZD_zC7OQcntndDJW2-1">
-          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-21" value="Physical Delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gftZD_zC7OQcntndDJW2-1">
-          <mxGeometry x="320" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-22" value="Rilis SCCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gftZD_zC7OQcntndDJW2-1">
-          <mxGeometry x="620" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-24" value="Excel" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-21" target="BagyWfvDgl1oZn90ZvWL-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="600" as="sourcePoint" />
-            <mxPoint x="450" y="550" as="targetPoint" />
+            <mxPoint x="260" y="670" as="sourcePoint" />
+            <mxPoint x="310" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-25" value="Excel" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-22" target="BagyWfvDgl1oZn90ZvWL-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="680" as="sourcePoint" />
-            <mxPoint x="450" y="630" as="targetPoint" />
+            <mxPoint x="260" y="750" as="sourcePoint" />
+            <mxPoint x="310" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-26" value="Excel" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-21" target="BagyWfvDgl1oZn90ZvWL-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="680" as="sourcePoint" />
-            <mxPoint x="450" y="630" as="targetPoint" />
+            <mxPoint x="260" y="750" as="sourcePoint" />
+            <mxPoint x="310" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-27" value="Komtrack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gftZD_zC7OQcntndDJW2-1">
-          <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-28" value="Excel" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-27" target="BagyWfvDgl1oZn90ZvWL-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="770" as="sourcePoint" />
-            <mxPoint x="450" y="720" as="targetPoint" />
+            <mxPoint x="260" y="840" as="sourcePoint" />
+            <mxPoint x="310" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-29" value="Salesforce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gftZD_zC7OQcntndDJW2-1">
-          <mxGeometry x="630" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-30" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gftZD_zC7OQcntndDJW2-1">
-          <mxGeometry x="470" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.584;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-29" target="BagyWfvDgl1oZn90ZvWL-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="580" as="sourcePoint" />
-            <mxPoint x="700" y="730" as="targetPoint" />
+            <mxPoint x="260" y="650" as="sourcePoint" />
+            <mxPoint x="560" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-32" value="Excel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BagyWfvDgl1oZn90ZvWL-31">
@@ -232,15 +232,12 @@
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-30" target="BagyWfvDgl1oZn90ZvWL-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="550" as="sourcePoint" />
-            <mxPoint x="400" y="500" as="targetPoint" />
+            <mxPoint x="210" y="620" as="sourcePoint" />
+            <mxPoint x="260" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BagyWfvDgl1oZn90ZvWL-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-7" target="BagyWfvDgl1oZn90ZvWL-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="280" as="sourcePoint" />
-            <mxPoint x="430" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="BagyWfvDgl1oZn90ZvWL-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gftZD_zC7OQcntndDJW2-1">
+          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
