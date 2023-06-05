@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T13:50:58.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="H_iX0TnLUCZj7fZDl_00" version="21.3.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-05T13:52:26.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="_ruJx0GqE5M2TTkx4JS8" version="21.3.7" type="github" pages="14">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1339,6 +1339,15 @@
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-9" value="Combine File in Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="740" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fVzFJVik3ZewjTOPsONn-10" value="YU LG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fVzFJVik3ZewjTOPsONn-11" value="Merge" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAEFjDvyIH8GqECUqPPB-30" target="fVzFJVik3ZewjTOPsONn-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
