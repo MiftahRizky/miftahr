@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T13:56:35.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="GPoJMDyJYpWDQ-yOnIAr" version="21.3.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-05T13:57:05.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="w8tTj7qb0z4ijpOYSTHs" version="21.3.7" type="github" pages="14">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1269,7 +1269,7 @@
           <mxGeometry x="450" y="690" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gquMNcfVCIiCmj7lrp8P-10" value="ALL Shipment Pending Every Week" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="690" width="120" height="50" as="geometry" />
+          <mxGeometry x="590" y="690" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gquMNcfVCIiCmj7lrp8P-12" value="Combine File in Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="520" width="180" height="40" as="geometry" />
@@ -1281,7 +1281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gquMNcfVCIiCmj7lrp8P-16" value="Sheet Sebelumnya" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="820" width="90" height="50" as="geometry" />
+          <mxGeometry x="180" y="810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gquMNcfVCIiCmj7lrp8P-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VAEFjDvyIH8GqECUqPPB-34" target="gquMNcfVCIiCmj7lrp8P-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1297,12 +1297,12 @@
         </mxCell>
         <mxCell id="gquMNcfVCIiCmj7lrp8P-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fVzFJVik3ZewjTOPsONn-7" target="gquMNcfVCIiCmj7lrp8P-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="800" as="sourcePoint" />
-            <mxPoint x="340" y="830" as="targetPoint" />
+            <mxPoint x="400" y="790" as="sourcePoint" />
+            <mxPoint x="340" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gquMNcfVCIiCmj7lrp8P-20" value="Combine File If Closing Every Month" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="820" width="120" height="50" as="geometry" />
+          <mxGeometry x="600" y="810" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qxnds3oygBt_I0qzevwL-1" value="Physical Delivery Level 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="373" y="10" width="105" height="30" as="geometry" />
@@ -1312,33 +1312,33 @@
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gquMNcfVCIiCmj7lrp8P-16" target="fVzFJVik3ZewjTOPsONn-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="845" as="sourcePoint" />
-            <mxPoint x="590" y="845" as="targetPoint" />
+            <mxPoint x="270" y="835" as="sourcePoint" />
+            <mxPoint x="590" y="835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-3" value="Sheet Sebelumnya" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="820" width="90" height="50" as="geometry" />
+          <mxGeometry x="270" y="810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVzFJVik3ZewjTOPsONn-3" target="fVzFJVik3ZewjTOPsONn-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="845" as="sourcePoint" />
-            <mxPoint x="590" y="845" as="targetPoint" />
+            <mxPoint x="360" y="835" as="sourcePoint" />
+            <mxPoint x="590" y="835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-5" value="Sheet Sebelumnya" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="820" width="90" height="50" as="geometry" />
+          <mxGeometry x="360" y="810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVzFJVik3ZewjTOPsONn-5" target="fVzFJVik3ZewjTOPsONn-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="845" as="sourcePoint" />
-            <mxPoint x="590" y="845" as="targetPoint" />
+            <mxPoint x="450" y="835" as="sourcePoint" />
+            <mxPoint x="590" y="835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-7" value="Sheet Sebelumnya" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="820" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="810" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-9" value="Combine File in Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="298" y="780" width="180" height="40" as="geometry" />
+          <mxGeometry x="305" y="770" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fVzFJVik3ZewjTOPsONn-10" value="YU LG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="450" width="90" height="60" as="geometry" />
