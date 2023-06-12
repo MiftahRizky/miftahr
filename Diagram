@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T13:57:05.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="w8tTj7qb0z4ijpOYSTHs" version="21.3.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-06-12T07:00:38.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="diidLhyUd8DmaDyltKY4" version="21.3.7" type="github" pages="15">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
-    <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,15 +76,23 @@
         <mxCell id="wDb5OkVZK4pMJVH9-ici-12" value="Dinamis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WSJbWrk2iYycR17Xzmy0-1" value="STANDARD ANSI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WSJbWrk2iYycR17Xzmy0-1" value="STANDARD ANSI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="955" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WSJbWrk2iYycR17Xzmy0-2" value="MERGE COLUMN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WSJbWrk2iYycR17Xzmy0-2" value="MERGE COLUMN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="1035" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WSJbWrk2iYycR17Xzmy0-3" value="RECORD DATA OTOMATIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WSJbWrk2iYycR17Xzmy0-3" value="RECORD DATA OTOMATIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zDstWUOja5ljcYYV80hK" name="Metodelogi Penelitian">
+    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
