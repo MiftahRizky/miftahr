@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T08:04:05.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="ef1RwmKIczzvJpRuBliO" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-13T08:04:53.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="IMdxgjXF5dIKNm0Y4cPf" version="21.3.8" type="github" pages="15">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zDstWUOja5ljcYYV80hK" name="Metodelogi Penelitian">
-    <mxGraphModel dx="1518" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
           <mxGeometry x="20" y="250" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-33" value="Determining Action For Colllecting Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-3">
-          <mxGeometry x="145" y="282.5" width="80" height="65" as="geometry" />
+          <mxGeometry x="150" y="272.5" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-35" value="Identify Which Actor Has Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-3">
           <mxGeometry x="20" y="590" width="80" height="65" as="geometry" />
@@ -243,6 +243,12 @@
             <mxPoint x="100" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gV-tdDRhPE5Dn2aK7hLj-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gV-tdDRhPE5Dn2aK7hLj-3" source="gV-tdDRhPE5Dn2aK7hLj-32" target="gV-tdDRhPE5Dn2aK7hLj-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="580" as="sourcePoint" />
+            <mxPoint x="100" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gV-tdDRhPE5Dn2aK7hLj-1" source="gV-tdDRhPE5Dn2aK7hLj-28" target="gV-tdDRhPE5Dn2aK7hLj-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="650" as="sourcePoint" />
@@ -251,7 +257,7 @@
               <mxPoint x="420" y="615" />
               <mxPoint x="420" y="470" />
               <mxPoint x="420" y="390" />
-              <mxPoint x="420" y="330" />
+              <mxPoint x="420" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
