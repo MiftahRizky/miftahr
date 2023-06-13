@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T07:31:16.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="DTZbLHzQCKdQYCdKVuZA" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-13T07:33:21.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="I5sqm7KlExkRXYWj-3a7" version="21.3.8" type="github" pages="15">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zDstWUOja5ljcYYV80hK" name="Metodelogi Penelitian">
-    <mxGraphModel dx="1075" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,7 +199,7 @@
           <mxGeometry x="410" y="20" width="430" height="950" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-32" value="Does This Data Exist?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-3">
-          <mxGeometry x="20" y="260" width="80" height="100" as="geometry" />
+          <mxGeometry x="20" y="250" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-33" value="Determining Action For Colllecting Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-3">
           <mxGeometry x="130" y="282.5" width="80" height="65" as="geometry" />
