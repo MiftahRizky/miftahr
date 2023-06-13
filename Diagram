@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T02:06:31.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="jLrxhq17P_4a4BP75ZzA" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-13T02:06:45.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="yk1By7oZeemf2jyNgRwj" version="21.3.8" type="github" pages="15">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
           <mxGeometry x="115" y="40" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-12" value="Potential Sources &lt;br&gt;Of Value Creation in Response to &lt;br&gt;the need" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-2">
-          <mxGeometry x="80" y="120" width="152.5" height="160" as="geometry" />
+          <mxGeometry x="80" y="120" width="152.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-3" value="Data Collection And Interpretation" style="swimlane;startSize=20;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-1">
           <mxGeometry x="300" y="20" width="310" height="950" as="geometry" />
