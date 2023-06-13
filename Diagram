@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T08:04:53.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="IMdxgjXF5dIKNm0Y4cPf" version="21.3.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-06-13T08:07:51.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="NNIXFd-yxccWeCUmdUe-" version="21.3.8" type="github" pages="15">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zDstWUOja5ljcYYV80hK" name="Metodelogi Penelitian">
-    <mxGraphModel dx="2150" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,15 +271,35 @@
           <mxGeometry x="150" y="340" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-48" value="IT Development Needed To Integrated Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-4">
-          <mxGeometry x="130" y="490" width="90" height="75" as="geometry" />
+          <mxGeometry x="130" y="530" width="90" height="75" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-49" value="Conduct Test To Anticipate Potential Regression Due To Future IT Development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gV-tdDRhPE5Dn2aK7hLj-4">
-          <mxGeometry x="40" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gV-tdDRhPE5Dn2aK7hLj-4" source="gV-tdDRhPE5Dn2aK7hLj-46" target="gV-tdDRhPE5Dn2aK7hLj-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-380" y="580" as="sourcePoint" />
             <mxPoint x="-330" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gV-tdDRhPE5Dn2aK7hLj-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gV-tdDRhPE5Dn2aK7hLj-4" source="gV-tdDRhPE5Dn2aK7hLj-47" target="gV-tdDRhPE5Dn2aK7hLj-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="610" as="sourcePoint" />
+            <mxPoint x="-40" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="490" />
+              <mxPoint x="175" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gV-tdDRhPE5Dn2aK7hLj-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gV-tdDRhPE5Dn2aK7hLj-4" source="gV-tdDRhPE5Dn2aK7hLj-48" target="gV-tdDRhPE5Dn2aK7hLj-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="610" as="sourcePoint" />
+            <mxPoint x="-40" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="630" />
+              <mxPoint x="100" y="630" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gV-tdDRhPE5Dn2aK7hLj-20">
