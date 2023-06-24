@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T06:50:51.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.55" etag="aych5ZMFINh-uMkXsf9C" version="21.5.0" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-24T08:21:13.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="bAg_nfYRY8we6SJUgjXJ" version="21.5.0" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zDstWUOja5ljcYYV80hK" name="Metodelogi Penelitian">
-    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,21 +329,48 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Metodelogi Penelitian" id="0rPk7s6HrOhVDLixIKcB">
-    <mxGraphModel dx="1518" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ey2a7eFAjjNedgXK5HZt-0" />
         <mxCell id="ey2a7eFAjjNedgXK5HZt-1" parent="ey2a7eFAjjNedgXK5HZt-0" />
-        <mxCell id="i_1Ij09djA73yeb2jX3M-0" value="Identifikasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+        <mxCell id="i_1Ij09djA73yeb2jX3M-0" value="Identifikasi" style="rounded=1;whiteSpace=wrap;html=1;" parent="ey2a7eFAjjNedgXK5HZt-1" vertex="1">
           <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i_1Ij09djA73yeb2jX3M-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1" source="i_1Ij09djA73yeb2jX3M-0">
+        <mxCell id="i_1Ij09djA73yeb2jX3M-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ey2a7eFAjjNedgXK5HZt-1" source="i_1Ij09djA73yeb2jX3M-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="390" as="sourcePoint" />
             <mxPoint x="390" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i_1Ij09djA73yeb2jX3M-2" value="Studi Literatur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+        <mxCell id="i_1Ij09djA73yeb2jX3M-2" value="Studi Literatur" style="rounded=1;whiteSpace=wrap;html=1;" parent="ey2a7eFAjjNedgXK5HZt-1" vertex="1">
           <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atOSWbUum6XQ7qbwYi18-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1" source="i_1Ij09djA73yeb2jX3M-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atOSWbUum6XQ7qbwYi18-1" value="Pengujian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+          <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atOSWbUum6XQ7qbwYi18-2" value="Optimalisasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+          <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atOSWbUum6XQ7qbwYi18-3" value="Implementasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+          <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="atOSWbUum6XQ7qbwYi18-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1" source="atOSWbUum6XQ7qbwYi18-1" target="atOSWbUum6XQ7qbwYi18-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atOSWbUum6XQ7qbwYi18-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1" source="atOSWbUum6XQ7qbwYi18-2" target="atOSWbUum6XQ7qbwYi18-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
