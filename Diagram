@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T08:21:13.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="bAg_nfYRY8we6SJUgjXJ" version="21.5.0" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-06-24T08:27:04.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="r6S5Sog3-das7ItuXFKD" version="21.5.0" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -526,12 +526,6 @@
             <mxPoint x="400" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S3EJgtDmlBcR5aYpkWp--1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-38" target="BagyWfvDgl1oZn90ZvWL-19" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="780" as="sourcePoint" />
-            <mxPoint x="400" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S3EJgtDmlBcR5aYpkWp--2" value="Visualisasi Data (Power BI)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="gftZD_zC7OQcntndDJW2-1" vertex="1">
           <mxGeometry x="370" y="940" width="110" height="110" as="geometry" />
         </mxCell>
@@ -542,6 +536,11 @@
             <Array as="points">
               <mxPoint x="120" y="995" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="atzkXFwW6y1ZANJTgsVH-0" value="Excel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S3EJgtDmlBcR5aYpkWp--3">
+          <mxGeometry x="-0.5162" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S3EJgtDmlBcR5aYpkWp--4" value="Excel" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-21" target="S3EJgtDmlBcR5aYpkWp--2" edge="1">
@@ -560,7 +559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KESELURUHAN LEVEL 1" id="zvwqKSVQRV0Smx_VA0y2">
-    <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="g3-Y-bsuolSWBWQdcODF-0" />
         <mxCell id="g3-Y-bsuolSWBWQdcODF-1" parent="g3-Y-bsuolSWBWQdcODF-0" />
@@ -727,7 +726,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KESELURUHAN LEVEL 2" id="Lupa6I9v4kvlSx_OZj79">
-    <mxGraphModel dx="994" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iy2ITPSXw_3fPNaWaloX-0" />
         <mxCell id="iy2ITPSXw_3fPNaWaloX-1" parent="iy2ITPSXw_3fPNaWaloX-0" />
