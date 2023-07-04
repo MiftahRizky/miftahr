@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:29:00.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="Q2CuqTDtobEYV7Tivb11" version="21.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:29:35.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="AgAF4NUz4OguyG8sz2_o" version="21.5.2" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1071,7 +1071,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-30" value="Terima Dokumen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-30" value="Terima Dokumen (PIB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="640" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.416;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.263;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s_gdC3DDuGIP0VuVxAhP-24" target="s_gdC3DDuGIP0VuVxAhP-34">
