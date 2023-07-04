@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:15:09.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="qtX_h_8IEEgi7MwgMe7S" version="21.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:15:54.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="stb5O_b3pzSjW70XqzSv" version="21.5.2" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -988,22 +988,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="340" height="160" as="geometry" />
+          <mxGeometry x="10" y="150" width="330" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-2" value="Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-3" value="Rilis SCCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="20" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-5" value="YU LG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="100" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-7" value="Detail&amp;nbsp; Bill And Hold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="180" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-8" value="Reason&amp;nbsp; Lead Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="255" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-9" value="Source Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="10" width="90" height="60" as="geometry" />
@@ -1020,7 +1020,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="410" height="160" as="geometry" />
+          <mxGeometry x="360" y="150" width="440" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-14" value="Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="170" width="60" height="30" as="geometry" />
@@ -1029,7 +1029,7 @@
           <mxGeometry x="470" y="210" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-19" value="Source Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="10" width="90" height="60" as="geometry" />
+          <mxGeometry x="535" y="10" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_gdC3DDuGIP0VuVxAhP-19" target="s_gdC3DDuGIP0VuVxAhP-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1091,6 +1091,9 @@
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-36" value="Visualisasi Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-37" value="GMT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
