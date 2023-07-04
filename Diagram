@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T02:45:44.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="ia3b7dcxfGINGQeO0hIG" version="21.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-04T02:47:08.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="ifefjyLUJrdxF91smYpU" version="21.5.2" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -988,22 +988,36 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="340" height="160" as="geometry" />
+          <mxGeometry x="40" y="160" width="340" height="270" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-2" value="Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-3" value="Rilis SCCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="90" width="60" height="60" as="geometry" />
+          <mxGeometry x="60" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-5" value="YU LG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="60" height="60" as="geometry" />
+          <mxGeometry x="140" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-7" value="Detail&amp;nbsp; Bill And Hold" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="90" width="60" height="60" as="geometry" />
+          <mxGeometry x="220" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-8" value="Reason&amp;nbsp; Lead Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="60" height="60" as="geometry" />
+          <mxGeometry x="300" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-9" value="Source Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_gdC3DDuGIP0VuVxAhP-9" target="s_gdC3DDuGIP0VuVxAhP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="170" as="sourcePoint" />
+            <mxPoint x="450" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-12" value="Sharing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_gdC3DDuGIP0VuVxAhP-11">
+          <mxGeometry x="0.033" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
