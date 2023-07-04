@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:13:32.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="5BRu9Yaz5iA0eWuc2JoB" version="21.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:15:09.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="qtX_h_8IEEgi7MwgMe7S" version="21.5.2" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1014,13 +1014,13 @@
             <mxPoint x="450" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-12" value="Sharing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_gdC3DDuGIP0VuVxAhP-11">
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-12" value="Sharing (Excel)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_gdC3DDuGIP0VuVxAhP-11">
           <mxGeometry x="0.033" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="340" height="160" as="geometry" />
+          <mxGeometry x="390" y="160" width="410" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-14" value="Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="170" width="60" height="30" as="geometry" />
@@ -1029,7 +1029,7 @@
           <mxGeometry x="470" y="210" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-19" value="Source Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="10" width="90" height="60" as="geometry" />
+          <mxGeometry x="550" y="10" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s_gdC3DDuGIP0VuVxAhP-19" target="s_gdC3DDuGIP0VuVxAhP-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1037,7 +1037,7 @@
             <mxPoint x="870" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-21" value="Sharing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_gdC3DDuGIP0VuVxAhP-20">
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-21" value="Sharing (Excel)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_gdC3DDuGIP0VuVxAhP-20">
           <mxGeometry x="0.033" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1051,7 +1051,7 @@
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="500" width="340" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-25" value="Folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-25" value="Folder&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-26" value="PIB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1066,7 +1066,7 @@
             <mxPoint x="870" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-29" value="Sharing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_gdC3DDuGIP0VuVxAhP-28">
+        <mxCell id="s_gdC3DDuGIP0VuVxAhP-29" value="Sharing (Excel)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="s_gdC3DDuGIP0VuVxAhP-28">
           <mxGeometry x="0.033" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
