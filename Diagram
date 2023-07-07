@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T04:04:19.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="Wet9_pE4ZHJbN1rFVDen" version="21.6.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-07T04:14:11.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="cFSH_eB5FSmLf7fHRUvK" version="21.6.1" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
         <mxCell id="ey2a7eFAjjNedgXK5HZt-0" />
         <mxCell id="ey2a7eFAjjNedgXK5HZt-1" parent="ey2a7eFAjjNedgXK5HZt-0" />
         <mxCell id="i_1Ij09djA73yeb2jX3M-0" value="Identifikasi Kebutuhan dan Masalah" style="rounded=1;whiteSpace=wrap;html=1;" parent="ey2a7eFAjjNedgXK5HZt-1" vertex="1">
-          <mxGeometry x="365" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_1Ij09djA73yeb2jX3M-2" value="Studi Literatur&lt;br&gt;- Jurnal&lt;br&gt;- Buku&lt;br&gt;- Skripsi&lt;br&gt;- Master Thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="ey2a7eFAjjNedgXK5HZt-1" vertex="1">
           <mxGeometry x="640" y="130" width="140" height="80" as="geometry" />
@@ -346,16 +346,16 @@
           <mxGeometry x="60" y="130" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-4" value="Perumusan Masalah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="365" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-5" value="Tujuan Penelitian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="365" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-7" value="Implementasi Metode&lt;br&gt;1. Data Collection dan interpretation&lt;br&gt;2. Visibility dan Viability&lt;br&gt;3. Penerapan Metode dengan Data - Driven Dynamic Performance Management Logistics Distribution" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="220" y="510" width="400" height="140" as="geometry" />
+          <mxGeometry x="220" y="540" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-12" value="Analisa dan Pembahasan&lt;br&gt;1. Analisa Data Collection dan Interpretation&lt;br&gt;2. Analisa Visbility dan Viability&lt;br&gt;3. Analisa Penerapan&amp;nbsp; Metode dengan Data-Driven Dynamic Performance Management Logistic Distribution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="220" y="710" width="400" height="140" as="geometry" />
+          <mxGeometry x="220" y="730" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-17" value="Kesimpulan dan Saran" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
           <mxGeometry x="365" y="910" width="120" height="60" as="geometry" />
@@ -383,13 +383,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4K7MFjjsqT5jyEGgu_J-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1" source="G4K7MFjjsqT5jyEGgu_J-3">
+        <mxCell id="G4K7MFjjsqT5jyEGgu_J-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.428;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="330" as="sourcePoint" />
-            <mxPoint x="450" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="130" y="240" />
-            </Array>
+            <mxPoint x="130" y="260" as="sourcePoint" />
+            <mxPoint x="129.79999999999995" y="209.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4K7MFjjsqT5jyEGgu_J-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="260" as="sourcePoint" />
+            <mxPoint x="710" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4K7MFjjsqT5jyEGgu_J-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="260" as="sourcePoint" />
+            <mxPoint x="710" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4K7MFjjsqT5jyEGgu_J-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1" target="i_1Ij09djA73yeb2jX3M-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="sourcePoint" />
+            <mxPoint x="220" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
