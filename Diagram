@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T03:52:24.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="ZKe4LR95folGl2pnWZeg" version="21.6.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-07T03:56:28.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="HvAyAmrYZdP5A097mc7w" version="21.6.1" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,13 +337,13 @@
           <mxGeometry x="365" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_1Ij09djA73yeb2jX3M-2" value="Studi Literatur&lt;br&gt;- Jurnal&lt;br&gt;- Buku&lt;br&gt;- Skripsi&lt;br&gt;- Master Thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="ey2a7eFAjjNedgXK5HZt-1" vertex="1">
-          <mxGeometry x="680" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="120" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
           <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-3" value="Studi Lapangan&lt;br&gt;- Survey&lt;br&gt;-Observasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="60" y="120" width="120" height="90" as="geometry" />
+          <mxGeometry x="60" y="120" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-4" value="Perumusan Masalah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
           <mxGeometry x="365" y="330" width="120" height="60" as="geometry" />
@@ -351,10 +351,10 @@
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-5" value="Tujuan Penelitian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
           <mxGeometry x="365" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G4K7MFjjsqT5jyEGgu_J-7" value="Implementasi Metode&lt;br&gt;1. Data Collection dan interpretation&lt;br&gt;2. Visibility dan Viability&lt;br&gt;3. Penerapan Metode dengan Data - Driven Dynamic Performance Management Logistics Distribution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="335" y="510" width="180" height="140" as="geometry" />
+        <mxCell id="G4K7MFjjsqT5jyEGgu_J-7" value="Implementasi Metode&lt;br&gt;1. Data Collection dan interpretation&lt;br&gt;2. Visibility dan Viability&lt;br&gt;3. Penerapan Metode dengan Data - Driven Dynamic Performance Management Logistics Distribution" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+          <mxGeometry x="220" y="510" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="G4K7MFjjsqT5jyEGgu_J-12" value="Analisa Dan Pembahasan&lt;br&gt;1. Analisa&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+        <mxCell id="G4K7MFjjsqT5jyEGgu_J-12" value="Analisa dan Pembahasan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
           <mxGeometry x="365" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
