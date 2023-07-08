@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T13:54:26.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="SEsKCfFGJChWPTNXIjGo" version="21.6.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-08T14:00:43.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="LqZdTFCmsX25pv6R_4TZ" version="21.6.1" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -456,9 +456,6 @@
         </mxCell>
         <mxCell id="-DIzSrhgjF1TbxomS03z-7" value="Tujuan Penelitian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
           <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-DIzSrhgjF1TbxomS03z-8" value="Implementasi Metode&lt;br&gt;1. Data Collection dan interpretation&lt;br&gt;2. Visibility dan Viability&lt;br&gt;3. Penerapan Metode dengan Data - Driven Dynamic Performance Management Logistics Distribution" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
-          <mxGeometry x="225" y="540" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-DIzSrhgjF1TbxomS03z-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-4" target="-DIzSrhgjF1TbxomS03z-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
