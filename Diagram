@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T13:53:26.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="GagYA28Rzv--G_HBezse" version="21.6.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-08T13:54:26.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="SEsKCfFGJChWPTNXIjGo" version="21.6.1" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -429,6 +429,97 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="660" as="sourcePoint" />
             <mxPoint x="530" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Metodelogi Penelitian" id="0WkeRtmv3Z-rJ16BUz_t">
+    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-0" />
+        <mxCell id="-DIzSrhgjF1TbxomS03z-1" parent="-DIzSrhgjF1TbxomS03z-0" />
+        <mxCell id="-DIzSrhgjF1TbxomS03z-2" value="Identifikasi Kebutuhan dan Masalah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="370" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-3" value="Studi Literatur&lt;br&gt;- Jurnal&lt;br&gt;- Buku&lt;br&gt;- Skripsi&lt;br&gt;- Master Thesis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="645" y="110" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-4" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-5" value="Studi Lapangan&lt;br&gt;- Survey&lt;br&gt;-Observasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="65" y="110" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-6" value="Perumusan Masalah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-7" value="Tujuan Penelitian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-8" value="Implementasi Metode&lt;br&gt;1. Data Collection dan interpretation&lt;br&gt;2. Visibility dan Viability&lt;br&gt;3. Penerapan Metode dengan Data - Driven Dynamic Performance Management Logistics Distribution" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="225" y="540" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-4" target="-DIzSrhgjF1TbxomS03z-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="310" as="sourcePoint" />
+            <mxPoint x="455" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="90" />
+              <mxPoint x="135" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-4" target="-DIzSrhgjF1TbxomS03z-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="310" as="sourcePoint" />
+            <mxPoint x="455" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="90" />
+              <mxPoint x="715" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.428;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="240" as="sourcePoint" />
+            <mxPoint x="134.79999999999995" y="189.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="240" as="sourcePoint" />
+            <mxPoint x="715" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="240" as="sourcePoint" />
+            <mxPoint x="715" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" target="-DIzSrhgjF1TbxomS03z-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="sourcePoint" />
+            <mxPoint x="225" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-2" target="-DIzSrhgjF1TbxomS03z-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="370" as="sourcePoint" />
+            <mxPoint x="225" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-6" target="-DIzSrhgjF1TbxomS03z-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="370" as="sourcePoint" />
+            <mxPoint x="225" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DIzSrhgjF1TbxomS03z-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
