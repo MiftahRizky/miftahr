@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T14:00:43.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="LqZdTFCmsX25pv6R_4TZ" version="21.6.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-08T14:01:02.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="IgXbdA2glvTQCLxaVECz" version="21.6.1" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -445,9 +445,6 @@
         <mxCell id="-DIzSrhgjF1TbxomS03z-3" value="Studi Literatur&lt;br&gt;- Jurnal&lt;br&gt;- Buku&lt;br&gt;- Skripsi&lt;br&gt;- Master Thesis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
           <mxGeometry x="645" y="110" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-DIzSrhgjF1TbxomS03z-4" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
-          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="-DIzSrhgjF1TbxomS03z-5" value="Studi Lapangan&lt;br&gt;- Survey&lt;br&gt;-Observasi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
           <mxGeometry x="65" y="110" width="140" height="80" as="geometry" />
         </mxCell>
@@ -457,9 +454,9 @@
         <mxCell id="-DIzSrhgjF1TbxomS03z-7" value="Tujuan Penelitian" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
           <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-DIzSrhgjF1TbxomS03z-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-4" target="-DIzSrhgjF1TbxomS03z-5">
+        <mxCell id="-DIzSrhgjF1TbxomS03z-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" target="-DIzSrhgjF1TbxomS03z-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405" y="310" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="sourcePoint" />
             <mxPoint x="455" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="90" />
@@ -467,9 +464,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DIzSrhgjF1TbxomS03z-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-4" target="-DIzSrhgjF1TbxomS03z-3">
+        <mxCell id="-DIzSrhgjF1TbxomS03z-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" target="-DIzSrhgjF1TbxomS03z-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405" y="310" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="sourcePoint" />
             <mxPoint x="455" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="430" y="90" />
@@ -518,6 +515,9 @@
             <mxPoint x="175" y="370" as="sourcePoint" />
             <mxPoint x="430" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LRbigjgctmXVvCCrWWUc-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+          <mxGeometry x="370" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
