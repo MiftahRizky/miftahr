@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T03:00:09.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="L__YEz12e304SAdWo4tH" version="21.6.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-07-09T13:47:55.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="2Bq0iegGcd4khbw5BHOo" version="21.6.1" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -354,14 +354,14 @@
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-7" value="Implementasi Metode&lt;br&gt;1. Data Collection dan interpretation&lt;br&gt;2. Visibility dan Viability&lt;br&gt;3. Penerapan Metode dengan Data - Driven Dynamic Performance Management Logistics Distribution" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
           <mxGeometry x="220" y="560" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="G4K7MFjjsqT5jyEGgu_J-12" value="Analisa dan Pembahasan&lt;br&gt;1. Analisa Data Collection dan Interpretation&lt;br&gt;2. Analisa Visbility dan Viability&lt;br&gt;3. Analisa Penerapan&amp;nbsp; Metode dengan Data-Driven Dynamic Performance Management Logistic Distribution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="225" y="740" width="400" height="140" as="geometry" />
+        <mxCell id="G4K7MFjjsqT5jyEGgu_J-12" value="Analisa dan Pembahasan&lt;br&gt;1. Analisa Data Collection dan Interpretation&lt;br&gt;2. Analisa Visbility dan Viability&lt;br&gt;3. Analisa Performance Management Supply Chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
+          <mxGeometry x="225" y="820" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-17" value="Kesimpulan dan Saran" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="365" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-18" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ey2a7eFAjjNedgXK5HZt-1">
-          <mxGeometry x="365" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4K7MFjjsqT5jyEGgu_J-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ey2a7eFAjjNedgXK5HZt-1" source="G4K7MFjjsqT5jyEGgu_J-1" target="G4K7MFjjsqT5jyEGgu_J-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
