@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T15:52:39.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="5cpqIItJq9Ci-6gRVZ78" version="21.6.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-12T15:53:39.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="xr9adzQQmwW8Dm8RfAa8" version="21.6.2" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -523,10 +523,10 @@
           <mxGeometry x="370" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LRbigjgctmXVvCCrWWUc-2" value="Data Collection (Data Exist)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
-          <mxGeometry x="370" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uQmqryxFq3T_ikO2Klu4-0" value="Visibility&lt;br style=&quot;font-size: 13px;&quot;&gt;Teknik Visualisasi Data Menggunakan Microsoft Power BI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
-          <mxGeometry x="335" y="870" width="190" height="70" as="geometry" />
+          <mxGeometry x="335" y="890" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="x4vj-qsGwUChuyQhljjg-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" source="LRbigjgctmXVvCCrWWUc-2" target="1ylquYAihsvkWPf3DYZH-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -549,7 +549,7 @@
         <mxCell id="1ylquYAihsvkWPf3DYZH-5" value="Data Reliable" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
           <mxGeometry x="375" y="660" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1ylquYAihsvkWPf3DYZH-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" source="1ylquYAihsvkWPf3DYZH-5" edge="1">
+        <mxCell id="1ylquYAihsvkWPf3DYZH-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" source="1ylquYAihsvkWPf3DYZH-5" edge="1" target="6bcOWJwyNLf1H3M1d9iR-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="830" as="sourcePoint" />
             <mxPoint x="430" y="780" as="targetPoint" />
@@ -589,7 +589,7 @@
             <mxPoint x="460" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1ylquYAihsvkWPf3DYZH-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" edge="1">
+        <mxCell id="1ylquYAihsvkWPf3DYZH-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" target="uQmqryxFq3T_ikO2Klu4-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="840" as="sourcePoint" />
             <mxPoint x="430" y="870" as="targetPoint" />
@@ -608,7 +608,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6bcOWJwyNLf1H3M1d9iR-9" value="Data Interpretation&lt;br&gt;1. Comparison Hasil&lt;br&gt;2. Review" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
-          <mxGeometry x="370" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kJarKf64OdK82pUm8uIQ-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" source="6bcOWJwyNLf1H3M1d9iR-2" target="6bcOWJwyNLf1H3M1d9iR-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
