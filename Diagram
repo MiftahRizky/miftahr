@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T06:06:47.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="3QeQmYgRQZRZCXopqIgl" version="21.6.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:07:05.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="3FET4FLqQmGlLr32p8kX" version="21.6.2" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -643,6 +643,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="810" as="sourcePoint" />
             <mxPoint x="450" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="695" y="790" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
