@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T05:45:53.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="8UmPrOHx9UxoSjSW_X-y" version="21.6.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-12T05:46:26.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="qbeOqZIVySiw0ogW1ppK" version="21.6.2" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
             <mxPoint x="460" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1ylquYAihsvkWPf3DYZH-4" value="Implementasi Metode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
+        <mxCell id="1ylquYAihsvkWPf3DYZH-4" value="Implementasi Metode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
           <mxGeometry x="170" y="550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1ylquYAihsvkWPf3DYZH-5" value="Data Reliable" style="rhombus;whiteSpace=wrap;html=1;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
