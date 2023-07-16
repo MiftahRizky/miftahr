@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T08:09:46.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="tbSg1wqP95Q_pToW1021" version="21.6.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-07-16T08:24:31.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="G7YuXwsn9jd3QDhh1a6y" version="21.6.2" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="825" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -598,8 +598,8 @@
         <mxCell id="6bcOWJwyNLf1H3M1d9iR-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Teknik Preparation&lt;/font&gt; Data&lt;/b&gt; Extract, Load, Transform (ETL)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
           <mxGeometry x="610" y="667.5" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="6bcOWJwyNLf1H3M1d9iR-4" value="Teknik Data Modelling&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
-          <mxGeometry x="610" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="6bcOWJwyNLf1H3M1d9iR-4" value="&lt;b&gt;Teknik Processing Data&lt;/b&gt;&lt;br&gt;1. Data Modelling&lt;br&gt;2. Agregasi Data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
+          <mxGeometry x="610" y="795" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6bcOWJwyNLf1H3M1d9iR-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" source="6bcOWJwyNLf1H3M1d9iR-4" target="6bcOWJwyNLf1H3M1d9iR-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
