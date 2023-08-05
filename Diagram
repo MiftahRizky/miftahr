@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T14:01:42.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="_PZmZXgNmjKLRJFQQgZf" version="21.6.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-05T14:02:12.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="6Fmfd5ffkMW0wyndFUVl" version="21.6.6" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1412" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1258,16 +1258,16 @@
           <mxGeometry x="25" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-3" value="Rilis SCCA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="35" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="80" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-5" value="YU LG" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="157.5" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-7" value="Detail&amp;nbsp; Bill And Hold" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="240" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-8" value="Reason&amp;nbsp; Lead Time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="325" y="290" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-9" value="Source Data for Preparation Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="90" width="90" height="60" as="geometry" />
