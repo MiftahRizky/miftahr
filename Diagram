@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T12:34:19.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="muNxU2NxhpaTN-F3wDe9" version="21.6.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-05T13:00:21.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="EZMRWe2C6jN9d1Ghg1-N" version="21.6.6" type="github" pages="15">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1379,7 +1379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of RILIS SCCA" id="fOgHxIhnBorgi_DDYXDv">
-    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Std3DKkrbZIo7TxB3sDW-0" />
         <mxCell id="Std3DKkrbZIo7TxB3sDW-1" parent="Std3DKkrbZIo7TxB3sDW-0" />
@@ -1387,7 +1387,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WJRj-ZNNiq599oXi5Z06" name="PIB">
-    <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2277,27 +2277,6 @@
       <root>
         <mxCell id="dnxgIQATHnvMkevhxn4b-0" />
         <mxCell id="dnxgIQATHnvMkevhxn4b-1" parent="dnxgIQATHnvMkevhxn4b-0" />
-        <mxCell id="tqiAcFMOnyVBqDSNkOBY-0" value="Data Modelling" style="rounded=1;whiteSpace=wrap;html=1;" parent="dnxgIQATHnvMkevhxn4b-1" vertex="1">
-          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tqiAcFMOnyVBqDSNkOBY-2" value="Physical Delivery" style="rounded=1;whiteSpace=wrap;html=1;" parent="dnxgIQATHnvMkevhxn4b-1" vertex="1">
-          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tqiAcFMOnyVBqDSNkOBY-3" value="Rilis SCCA" style="rounded=1;whiteSpace=wrap;html=1;" parent="dnxgIQATHnvMkevhxn4b-1" vertex="1">
-          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tqiAcFMOnyVBqDSNkOBY-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="dnxgIQATHnvMkevhxn4b-1" source="tqiAcFMOnyVBqDSNkOBY-2" target="tqiAcFMOnyVBqDSNkOBY-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="300" as="sourcePoint" />
-            <mxPoint x="430" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tqiAcFMOnyVBqDSNkOBY-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="dnxgIQATHnvMkevhxn4b-1" source="tqiAcFMOnyVBqDSNkOBY-3" target="tqiAcFMOnyVBqDSNkOBY-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="300" as="sourcePoint" />
-            <mxPoint x="430" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
