@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T16:47:27.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="OsP86BuCQmxcr52XmDcU" version="21.6.6" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-08-05T05:26:41.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="m-MswjuJJkxjpDsamThH" version="21.6.6" type="github" pages="17">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,11 +89,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zDstWUOja5ljcYYV80hK" name="Metodelogi Penelitian">
-    <mxGraphModel dx="825" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gV-tdDRhPE5Dn2aK7hLj-1" value="Metodelogi Penelitian" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;swimlaneLine=1;" parent="1" vertex="1">
+        <mxCell id="gV-tdDRhPE5Dn2aK7hLj-1" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;swimlaneLine=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="1320" height="970" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-2" value="Needs" style="swimlane;startSize=20;html=1;" parent="gV-tdDRhPE5Dn2aK7hLj-1" vertex="1">
@@ -329,7 +329,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Metodelogi Penelitian" id="0rPk7s6HrOhVDLixIKcB">
-    <mxGraphModel dx="1100" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ey2a7eFAjjNedgXK5HZt-0" />
         <mxCell id="ey2a7eFAjjNedgXK5HZt-1" parent="ey2a7eFAjjNedgXK5HZt-0" />
@@ -435,7 +435,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Metodelogi Penelitian" id="0WkeRtmv3Z-rJ16BUz_t">
-    <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-DIzSrhgjF1TbxomS03z-0" />
         <mxCell id="-DIzSrhgjF1TbxomS03z-1" parent="-DIzSrhgjF1TbxomS03z-0" />
@@ -474,7 +474,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DIzSrhgjF1TbxomS03z-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-DIzSrhgjF1TbxomS03z-1" edge="1" target="-DIzSrhgjF1TbxomS03z-5">
+        <mxCell id="-DIzSrhgjF1TbxomS03z-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-DIzSrhgjF1TbxomS03z-1" target="-DIzSrhgjF1TbxomS03z-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="240" as="sourcePoint" />
             <mxPoint x="135" y="200" as="targetPoint" />
@@ -486,7 +486,7 @@
             <mxPoint x="620" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DIzSrhgjF1TbxomS03z-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-DIzSrhgjF1TbxomS03z-1" edge="1" target="-DIzSrhgjF1TbxomS03z-3">
+        <mxCell id="-DIzSrhgjF1TbxomS03z-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-DIzSrhgjF1TbxomS03z-1" target="-DIzSrhgjF1TbxomS03z-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="240" as="sourcePoint" />
             <mxPoint x="715" y="200" as="targetPoint" />
@@ -513,13 +513,13 @@
         <mxCell id="LRbigjgctmXVvCCrWWUc-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
           <mxGeometry x="370" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eF_OzF6pq6K6LDeHoF99-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-7">
+        <mxCell id="eF_OzF6pq6K6LDeHoF99-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=13;" parent="-DIzSrhgjF1TbxomS03z-1" source="-DIzSrhgjF1TbxomS03z-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="440" as="sourcePoint" />
             <mxPoint x="430" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eF_OzF6pq6K6LDeHoF99-2" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="-DIzSrhgjF1TbxomS03z-1">
+        <mxCell id="eF_OzF6pq6K6LDeHoF99-2" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="-DIzSrhgjF1TbxomS03z-1" vertex="1">
           <mxGeometry x="390" y="550" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
