@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T13:01:52.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="31bDYlo1_Hi7LqzGGsGk" version="21.6.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-08-05T13:04:21.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ro4r2r3_VpshtKF_KMlS" version="21.6.6" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1378,70 +1378,11 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of RILIS SCCA" id="fOgHxIhnBorgi_DDYXDv">
-    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="Std3DKkrbZIo7TxB3sDW-0" />
-        <mxCell id="Std3DKkrbZIo7TxB3sDW-1" parent="Std3DKkrbZIo7TxB3sDW-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="WJRj-ZNNiq599oXi5Z06" name="PIB">
     <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M-EKRuns8wWt1QZCtxRP-1" value="PIB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-1" value="Data PIB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="M-EKRuns8wWt1QZCtxRP-1" target="gsYuO3PPJ_AzTOoWmV8I-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="210" as="sourcePoint" />
-            <mxPoint x="460" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-4" value="Tanggal Terima Dokumen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="gsYuO3PPJ_AzTOoWmV8I-4" target="gsYuO3PPJ_AzTOoWmV8I-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="210" as="sourcePoint" />
-            <mxPoint x="460" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="gsYuO3PPJ_AzTOoWmV8I-1" target="gsYuO3PPJ_AzTOoWmV8I-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="210" as="sourcePoint" />
-            <mxPoint x="460" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="gsYuO3PPJ_AzTOoWmV8I-1" target="gsYuO3PPJ_AzTOoWmV8I-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="210" as="sourcePoint" />
-            <mxPoint x="300" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-8" value="RIR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="gsYuO3PPJ_AzTOoWmV8I-8" target="gsYuO3PPJ_AzTOoWmV8I-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="210" as="sourcePoint" />
-            <mxPoint x="460" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gsYuO3PPJ_AzTOoWmV8I-1" target="gsYuO3PPJ_AzTOoWmV8I-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="220" as="sourcePoint" />
-            <mxPoint x="460" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gsYuO3PPJ_AzTOoWmV8I-11" value="Lead Time dan Nilai Pabean" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
