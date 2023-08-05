@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T13:27:28.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="6UdU6qdWJ1DKMuGsPOP6" version="21.6.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-05T13:27:41.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="HMK1xv8W6HMEy2qcP7sW" version="21.6.6" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1412" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1374,6 +1374,9 @@
         </mxCell>
         <mxCell id="nWgPDPsBXtEWhcwpvpDx-2" value="Folder (Environment Cloud)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="635" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nWgPDPsBXtEWhcwpvpDx-3" value="Folder (Environment Local)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="260" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
