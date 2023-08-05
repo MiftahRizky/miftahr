@@ -1,89 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T13:07:20.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ygr1MYo1Hak5W1RCpmc8" version="21.6.6" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-05T13:07:33.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="w6FpKw5782aWgfGTXJmc" version="21.6.6" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="2118" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UiCDGbOiA_X5jpEiluhU-1" value="Source Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-3" value="Excel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-4" value="Power BI Desktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-5" value="Sharepoint Folder" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-6" value="PowerQuery" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-7" value="Rilis SCCA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-8" value="Delivery" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-9" value="PIB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-10" value="Power BI Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-11" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UiCDGbOiA_X5jpEiluhU-12" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4jkLviaAaKbBc7U4ZHGf-1" value="Dynamic Folder Universal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-1" value="Merge" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-2" value="Join Left" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-3" value="Right" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-4" value="Inner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-5" value="Left Anti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-6" value="Right Anti" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-7" value="YU LG" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-8" value="Report" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-9" value="Power Pivot" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-10" value="Data Modelling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-11" value="Statis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wDb5OkVZK4pMJVH9-ici-12" value="Dinamis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WSJbWrk2iYycR17Xzmy0-1" value="STANDARD ANSI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="825" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="765" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSJbWrk2iYycR17Xzmy0-2" value="MERGE COLUMN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="905" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="845" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WSJbWrk2iYycR17Xzmy0-3" value="RECORD DATA OTOMATIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="920" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
