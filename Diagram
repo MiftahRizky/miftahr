@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T13:00:21.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="EZMRWe2C6jN9d1Ghg1-N" version="21.6.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-05T13:01:52.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="31bDYlo1_Hi7LqzGGsGk" version="21.6.6" type="github" pages="14">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2269,14 +2269,6 @@
         <mxCell id="ZrTh_WIqOAICbFVKXcQb-6" value="Merged Data Sebelumnya" style="rounded=1;whiteSpace=wrap;html=1;" parent="oE79P1voR812EhhyQ6ig-1" vertex="1">
           <mxGeometry x="385" y="665" width="80" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Penggabungan Delivery dan Rilis SCCA" id="6lvJ1OvYHjlbWi46MflV">
-    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="dnxgIQATHnvMkevhxn4b-0" />
-        <mxCell id="dnxgIQATHnvMkevhxn4b-1" parent="dnxgIQATHnvMkevhxn4b-0" />
       </root>
     </mxGraphModel>
   </diagram>
