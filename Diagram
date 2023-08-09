@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T16:31:02.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="4_KIWs3IahFDacaFZvb3" version="21.6.7" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-09T16:33:14.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.200" etag="hNcCJmsvJ0by7PhIqA3k" version="21.6.7" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1309,68 +1309,17 @@
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-23" value="Pengelompokan Type" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="290" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="590" width="340" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-26" value="PIB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="650" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-27" value="Source Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="440" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s_gdC3DDuGIP0VuVxAhP-27" target="s_gdC3DDuGIP0VuVxAhP-24" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="745" y="600" as="sourcePoint" />
-            <mxPoint x="795" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-29" value="Sharing (Excel)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="s_gdC3DDuGIP0VuVxAhP-28" vertex="1" connectable="0">
-          <mxGeometry x="0.033" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-30" value="Terima Dokumen (PIB)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="572.5" y="650" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.416;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.263;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s_gdC3DDuGIP0VuVxAhP-24" target="s_gdC3DDuGIP0VuVxAhP-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="580" as="sourcePoint" />
-            <mxPoint x="555" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-39" value="Open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="s_gdC3DDuGIP0VuVxAhP-32" vertex="1" connectable="0">
-          <mxGeometry x="0.084" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-34" value="Preparation Data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495" y="810" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-36" value="Excel Result" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5" y="635" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-37" value="GMT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="290" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="s_gdC3DDuGIP0VuVxAhP-34" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365" y="770" as="sourcePoint" />
-            <mxPoint x="597" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s_gdC3DDuGIP0VuVxAhP-41" value="Edit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="s_gdC3DDuGIP0VuVxAhP-40" vertex="1" connectable="0">
-          <mxGeometry x="-0.1682" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s_gdC3DDuGIP0VuVxAhP-43" value="Visualisasi Data (Power BI)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="157.5" y="635" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ijNXf7c3ToOJ6uPE5dRe-1" value="Data Flow Level 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nWgPDPsBXtEWhcwpvpDx-2" value="Folder (Environment Cloud)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="390" y="595" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nWgPDPsBXtEWhcwpvpDx-3" value="Folder (Environment Local)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="455" y="240" width="100" height="40" as="geometry" />
@@ -1383,6 +1332,57 @@
       <root>
         <mxCell id="72nI-395ANwvBWBKjuup-0" />
         <mxCell id="72nI-395ANwvBWBKjuup-1" parent="72nI-395ANwvBWBKjuup-0" />
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="72nI-395ANwvBWBKjuup-1">
+          <mxGeometry x="230" y="170" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-1" value="PIB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="72nI-395ANwvBWBKjuup-1">
+          <mxGeometry x="280" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-2" value="Source Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="72nI-395ANwvBWBKjuup-1">
+          <mxGeometry x="355" y="20" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="72nI-395ANwvBWBKjuup-1" source="NvDzpaJ5uLrULas0HIMV-2" target="NvDzpaJ5uLrULas0HIMV-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="180" as="sourcePoint" />
+            <mxPoint x="640" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-4" value="Sharing (Excel)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NvDzpaJ5uLrULas0HIMV-3">
+          <mxGeometry x="0.033" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-5" value="Terima Dokumen (PIB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="72nI-395ANwvBWBKjuup-1">
+          <mxGeometry x="417.5" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.416;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.263;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="72nI-395ANwvBWBKjuup-1" source="NvDzpaJ5uLrULas0HIMV-0" target="NvDzpaJ5uLrULas0HIMV-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-7" value="Open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NvDzpaJ5uLrULas0HIMV-6">
+          <mxGeometry x="0.084" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-8" value="Preparation Data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="72nI-395ANwvBWBKjuup-1">
+          <mxGeometry x="340" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="72nI-395ANwvBWBKjuup-1" source="NvDzpaJ5uLrULas0HIMV-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="350" as="sourcePoint" />
+            <mxPoint x="442" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-10" value="Edit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NvDzpaJ5uLrULas0HIMV-9">
+          <mxGeometry x="-0.1682" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NvDzpaJ5uLrULas0HIMV-11" value="Folder (Environment Cloud)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="72nI-395ANwvBWBKjuup-1">
+          <mxGeometry x="235" y="175" width="75" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
