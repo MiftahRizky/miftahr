@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T16:36:01.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="1mwz4PYziaCB-oUT6Brw" version="21.6.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-14T17:28:42.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="1jg273toKlvLwiskunmx" version="21.6.8" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1059" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1364,7 +1364,7 @@
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UqIkn362gEfQVZkXTUml-1" value="Open" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UqIkn362gEfQVZkXTUml-0">
+        <mxCell id="UqIkn362gEfQVZkXTUml-1" value="Open dan Edit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UqIkn362gEfQVZkXTUml-0">
           <mxGeometry x="0.0857" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
