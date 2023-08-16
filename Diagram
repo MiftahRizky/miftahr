@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T17:28:42.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="1jg273toKlvLwiskunmx" version="21.6.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-16T16:37:35.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="KXy41027Siu66ITceLXE" version="21.6.8" type="github" pages="13">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
-    <mxGraphModel dx="1059" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zDstWUOja5ljcYYV80hK" name="Metodelogi Penelitian">
-    <mxGraphModel dx="1059" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,7 +329,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Metodelogi Penelitian" id="0rPk7s6HrOhVDLixIKcB">
-    <mxGraphModel dx="1059" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ey2a7eFAjjNedgXK5HZt-0" />
         <mxCell id="ey2a7eFAjjNedgXK5HZt-1" parent="ey2a7eFAjjNedgXK5HZt-0" />
@@ -435,7 +435,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Metodelogi Penelitian" id="0WkeRtmv3Z-rJ16BUz_t">
-    <mxGraphModel dx="1059" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-DIzSrhgjF1TbxomS03z-0" />
         <mxCell id="-DIzSrhgjF1TbxomS03z-1" parent="-DIzSrhgjF1TbxomS03z-0" />
@@ -526,7 +526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Copy of Copy of Metodelogi Penelitian" id="O2FnYntL5kiY-MM8Y1c6">
-    <mxGraphModel dx="1059" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iFLbNCm6faateWDbNm16-0" />
         <mxCell id="iFLbNCm6faateWDbNm16-1" parent="iFLbNCm6faateWDbNm16-0" />
@@ -640,7 +640,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Kebutuhan" id="kCr3ZngT4QEyJO5qXoT8">
-    <mxGraphModel dx="1059" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="gftZD_zC7OQcntndDJW2-0" />
         <mxCell id="gftZD_zC7OQcntndDJW2-1" parent="gftZD_zC7OQcntndDJW2-0" />
@@ -817,12 +817,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="780" as="sourcePoint" />
             <mxPoint x="400" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="atzkXFwW6y1ZANJTgsVH-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-38" target="BagyWfvDgl1oZn90ZvWL-30" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="600" as="sourcePoint" />
-            <mxPoint x="450" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
