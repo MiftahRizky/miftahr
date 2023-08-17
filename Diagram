@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T04:38:22.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="QAH4hCL79tGCuSrtFhwE" version="21.6.2" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-08-17T04:43:06.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="MtvNmGmNwYYoqjsSLWme" version="21.6.2" type="github" pages="14">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1290" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -671,8 +671,8 @@
         <mxCell id="BagyWfvDgl1oZn90ZvWL-7" value="Data Information about Import" style="rounded=1;whiteSpace=wrap;html=1;" parent="gftZD_zC7OQcntndDJW2-1" vertex="1">
           <mxGeometry x="110" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BagyWfvDgl1oZn90ZvWL-8" value="Excel 365 (Raw Data)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="gftZD_zC7OQcntndDJW2-1" vertex="1">
-          <mxGeometry x="380" y="275" width="110" height="110" as="geometry" />
+        <mxCell id="BagyWfvDgl1oZn90ZvWL-8" value="Excel 365 (Raw Data)&lt;br&gt;1. Data Preparation&lt;br&gt;2. Data Processing" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="gftZD_zC7OQcntndDJW2-1" vertex="1">
+          <mxGeometry x="377.5" y="260" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="BagyWfvDgl1oZn90ZvWL-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gftZD_zC7OQcntndDJW2-1" source="BagyWfvDgl1oZn90ZvWL-2" target="BagyWfvDgl1oZn90ZvWL-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
