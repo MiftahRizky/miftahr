@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-26T11:43:58.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="Em9lb9V8JoqQsVLpvCzX" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-26T11:45:45.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.54" etag="XU8Zis4QQeQj21Kt6FVx" version="21.6.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="353" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,19 +19,19 @@
           <mxGeometry x="130" width="240" height="800" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-21" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Upload invoice untuk mencatatkan tagihan dari vendor transportasi&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="10" y="380" width="100" height="60" as="geometry" />
+          <mxGeometry x="5" y="380" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Menerima dokumen pengiriman unit dan dokumen penagihan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="10" y="460" width="100" height="60" as="geometry" />
+          <mxGeometry x="5" y="460" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Posting Invoice&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="10" y="540" width="100" height="40" as="geometry" />
+          <mxGeometry x="5" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Proses pembayaran vendor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="10" y="600" width="100" height="40" as="geometry" />
+          <mxGeometry x="5" y="600" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-22" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="10" y="660" width="100" height="40" as="geometry" />
+          <mxGeometry x="5" y="660" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9BGlGzTRq6roD9rzo5Fi-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=5;startSize=5;fontSize=12;" parent="77e6c97f196da883-3" source="77e6c97f196da883-21" target="77e6c97f196da883-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -146,12 +146,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BGlGzTRq6roD9rzo5Fi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-15" target="77e6c97f196da883-17" edge="1">
+        <mxCell id="9BGlGzTRq6roD9rzo5Fi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-15" target="77e6c97f196da883-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="195" as="sourcePoint" />
-            <mxPoint x="405" y="195" as="targetPoint" />
+            <mxPoint x="430" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="765" y="270" />
+              <mxPoint x="610" y="270" />
+              <mxPoint x="610" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
