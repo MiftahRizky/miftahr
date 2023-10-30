@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T16:50:03.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="cHAnaSkYq0v9r2vPyZmY" version="22.0.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-10-30T16:51:35.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="3dd-hM-YBUQK6w4u72Nd" version="22.0.8" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -378,11 +378,11 @@
         <mxCell id="TgyfGF85H7P1fw8gvp_u-0" value="Dasboard Microsoft Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-36">
           <mxGeometry x="40" y="342.5" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="TgyfGF85H7P1fw8gvp_u-1" value="Data Interpretation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-36">
+        <mxCell id="TgyfGF85H7P1fw8gvp_u-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-36">
           <mxGeometry x="160" y="340" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="TgyfGF85H7P1fw8gvp_u-2" value="Data Interpretation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-36">
-          <mxGeometry x="280" y="340" width="80" height="55" as="geometry" />
+        <mxCell id="TgyfGF85H7P1fw8gvp_u-2" value="Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-36">
+          <mxGeometry x="140" y="450" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
