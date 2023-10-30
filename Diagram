@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T15:23:56.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="KPJEC7tXszrc1JhQNgeM" version="22.0.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-10-30T15:24:18.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="2lND4VGbVRss52UXIKpy" version="22.0.8" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -368,18 +368,6 @@
         </mxCell>
         <mxCell id="Sj7kD7qbysh1favXzMjs-0" value="Data Interpretation" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
           <mxGeometry x="280" y="190" width="80" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="YC6iy35rC4iFUHGgGk9_-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="YC6iy35rC4iFUHGgGk9_-2" source="YC6iy35rC4iFUHGgGk9_-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="650" as="sourcePoint" />
-            <mxPoint x="460" y="325" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="420" y="615" />
-              <mxPoint x="420" y="470" />
-              <mxPoint x="420" y="390" />
-              <mxPoint x="420" y="325" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="YC6iy35rC4iFUHGgGk9_-36" value="Visibility And Viability" style="swimlane;startSize=20;html=1;" parent="YC6iy35rC4iFUHGgGk9_-2" vertex="1">
           <mxGeometry x="880" y="20" width="440" height="950" as="geometry" />
