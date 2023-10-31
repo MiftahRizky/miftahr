@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T07:09:38.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="aF33FGKfbVyDJGKp6OSP" version="22.0.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:10:15.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="pigQzLF6ab6_yz_o7NtZ" version="22.0.8" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="986" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -375,6 +375,9 @@
         <mxCell id="eNJfRaYBgzBB_A5XJEHA-0" value="Collection Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-21">
           <mxGeometry x="160" y="290" width="80" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="eNJfRaYBgzBB_A5XJEHA-1" value="Data Cleaning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-21">
+          <mxGeometry x="160" y="380" width="80" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="YC6iy35rC4iFUHGgGk9_-36" value="Visibility And Viability" style="swimlane;startSize=20;html=1;" parent="YC6iy35rC4iFUHGgGk9_-2" vertex="1">
           <mxGeometry x="880" y="20" width="440" height="600" as="geometry" />
         </mxCell>
@@ -386,9 +389,6 @@
         </mxCell>
         <mxCell id="TgyfGF85H7P1fw8gvp_u-2" value="Performance Management Supply Chain Analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-36" vertex="1">
           <mxGeometry x="140" y="440" width="110" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="eNJfRaYBgzBB_A5XJEHA-1" value="Collection Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YC6iy35rC4iFUHGgGk9_-1">
-          <mxGeometry x="630" y="330" width="80" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
