@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T05:24:41.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="zwd_cuxOOFSSnxzuEX2E" version="22.0.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-11-05T05:26:50.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="L7NN3Fw0z2mfitSxi8gM" version="22.0.8" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-1" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="1240" height="850" as="geometry" />
+          <mxGeometry x="20" y="10" width="1210" height="850" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-2" value="Needs" style="swimlane;startSize=20;html=1;" parent="gV-tdDRhPE5Dn2aK7hLj-1" vertex="1">
           <mxGeometry y="20" width="360" height="830" as="geometry" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-3" value="Data Collection And Interpretation" style="swimlane;startSize=20;html=1;" parent="gV-tdDRhPE5Dn2aK7hLj-1" vertex="1">
-          <mxGeometry x="360" y="20" width="440" height="830" as="geometry" />
+          <mxGeometry x="360" y="20" width="410" height="830" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-32" value="Does This Data Exist?" style="rhombus;whiteSpace=wrap;html=1;" parent="gV-tdDRhPE5Dn2aK7hLj-3" vertex="1">
           <mxGeometry x="20" y="250" width="80" height="110" as="geometry" />
@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-4" value="Visibility And Viability" style="swimlane;startSize=20;html=1;" parent="gV-tdDRhPE5Dn2aK7hLj-1" vertex="1">
-          <mxGeometry x="800" y="20" width="440" height="830" as="geometry" />
+          <mxGeometry x="770" y="20" width="440" height="830" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-46" value="Choose the Medium or Platform to make data visible" style="rounded=1;whiteSpace=wrap;html=1;" parent="gV-tdDRhPE5Dn2aK7hLj-4" vertex="1">
           <mxGeometry x="20" y="367.5" width="80" height="75" as="geometry" />
