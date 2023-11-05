@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T05:26:50.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="L7NN3Fw0z2mfitSxi8gM" version="22.0.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-11-05T05:42:02.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="9gcLjFk8_t0sNxeiLLIz" version="22.0.8" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
           <mxGeometry x="125" y="525" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-45" value="Make Data Reliable" style="rounded=1;whiteSpace=wrap;html=1;" parent="gV-tdDRhPE5Dn2aK7hLj-3" vertex="1">
-          <mxGeometry x="310" y="545" width="90" height="65" as="geometry" />
+          <mxGeometry x="310" y="545" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="gV-tdDRhPE5Dn2aK7hLj-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="gV-tdDRhPE5Dn2aK7hLj-3" source="gV-tdDRhPE5Dn2aK7hLj-38" target="gV-tdDRhPE5Dn2aK7hLj-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -277,9 +277,8 @@
             <mxPoint x="780" y="490" as="sourcePoint" />
             <mxPoint x="830" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="590" />
-              <mxPoint x="850" y="510" />
-              <mxPoint x="850" y="425" />
+              <mxPoint x="760" y="590" />
+              <mxPoint x="760" y="425" />
             </Array>
           </mxGeometry>
         </mxCell>
