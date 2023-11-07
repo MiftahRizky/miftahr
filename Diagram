@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T14:00:42.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="oFgdMFWDrQ6Y1F6nxhky" version="22.0.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-11-07T14:02:42.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="pAZcGXNeXgigrFGUPPKh" version="22.0.8" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="986" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -359,22 +359,22 @@
           <mxGeometry x="310" y="20" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="a9jmcAc3ODooqY9v4mu3-0" value="Preparation Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
-          <mxGeometry x="160" y="200" width="80" height="55" as="geometry" />
+          <mxGeometry x="160" y="480" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="a9jmcAc3ODooqY9v4mu3-1" value="Processing Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
-          <mxGeometry x="30" y="80" width="80" height="55" as="geometry" />
+          <mxGeometry x="150" y="300" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sj7kD7qbysh1favXzMjs-0" value="Data Interpretation" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
-          <mxGeometry x="160" y="80" width="80" height="55" as="geometry" />
+          <mxGeometry x="150" y="200" width="85" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XNcbDruNEJXFpzjLef60-0" value="Does This Data Exist?" style="rhombus;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
           <mxGeometry x="20" y="210" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eNJfRaYBgzBB_A5XJEHA-0" value="Collection Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
-          <mxGeometry x="160" y="290" width="80" height="55" as="geometry" />
+          <mxGeometry x="40" y="480" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eNJfRaYBgzBB_A5XJEHA-1" value="Data Cleaning" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
-          <mxGeometry x="160" y="380" width="80" height="55" as="geometry" />
+          <mxGeometry x="150" y="385" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="W1PCKNQ8VzwMt6Uhe3we-0" value="Actor Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
           <mxGeometry x="35" y="385" width="90" height="50" as="geometry" />
