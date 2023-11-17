@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:20:50.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="EpyD0KdUQCbQsF-6t-j_" version="22.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-11-17T13:39:55.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Ci1SrqDx1Pddq-9pcE22" version="22.1.3" type="github" pages="16">
   <diagram name="Kata Kunci" id="FcI8hFfloDB4XuNmWU0q">
     <mxGraphModel dx="986" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Metodelogi Penelitian" id="LRl5KdAg56546RThReEl">
-    <mxGraphModel dx="986" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YC6iy35rC4iFUHGgGk9_-0" />
         <mxCell id="YC6iy35rC4iFUHGgGk9_-1" parent="YC6iy35rC4iFUHGgGk9_-0" />
@@ -371,13 +371,13 @@
           <mxGeometry x="32.5" y="40" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eNJfRaYBgzBB_A5XJEHA-0" value="Collection Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
-          <mxGeometry x="40" y="480" width="80" height="55" as="geometry" />
+          <mxGeometry x="52.5" y="480" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eNJfRaYBgzBB_A5XJEHA-1" value="Data Cleaning" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
           <mxGeometry x="150" y="385" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="W1PCKNQ8VzwMt6Uhe3we-0" value="Actor Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="YC6iy35rC4iFUHGgGk9_-21" vertex="1">
-          <mxGeometry x="35" y="370" width="90" height="50" as="geometry" />
+          <mxGeometry x="47.5" y="370" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GUZtdYuWolj2GA9MepZ9-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="YC6iy35rC4iFUHGgGk9_-21" source="XNcbDruNEJXFpzjLef60-0" target="W1PCKNQ8VzwMt6Uhe3we-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -456,7 +456,9 @@
               <mxPoint x="300" y="555" />
               <mxPoint x="300" y="410" />
               <mxPoint x="300" y="280" />
-              <mxPoint x="340" y="280" />
+              <mxPoint x="330" y="280" />
+              <mxPoint x="330" y="190" />
+              <mxPoint x="330" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
