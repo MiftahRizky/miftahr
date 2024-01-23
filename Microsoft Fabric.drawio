@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T08:58:10.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ZzTTmYzW5xs7b2z4GPH6" version="22.1.21" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-23T09:03:29.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="GWyRZGku7FcWfz27BGUI" version="22.1.21" type="github" pages="4">
   <diagram name="General" id="MyQFximetOWyU0fwpo78">
     <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -237,27 +237,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2s0IC3lo0n0N_XPBFGfa" name="Page-3">
-    <mxGraphModel dx="355" dy="202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2DqYjKvhObYvgQIBGqHP-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="160" width="690" height="300" as="geometry" />
+          <mxGeometry x="10" y="160" width="700" height="300" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-1" value="Lakehouse" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="30" y="260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-4" value="SQL Analytics Endpoints" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="170" y="260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-8" value="Lakehouse Semantic Model" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="310" y="260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-9" value="Semantic Model in Power BI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="460" y="260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-10" value="Report Microsoft Power BI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="600" y="260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MQpCo3Y2BnSfcWjKKEq6-1" target="MQpCo3Y2BnSfcWjKKEq6-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -287,29 +287,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2DqYjKvhObYvgQIBGqHP-3" value="Web Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="130" width="100" height="50" as="geometry" />
+          <mxGeometry x="720" y="160" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2DqYjKvhObYvgQIBGqHP-6" value="Web Secure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="270" width="100" height="50" as="geometry" />
+          <mxGeometry x="720" y="350" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2DqYjKvhObYvgQIBGqHP-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQpCo3Y2BnSfcWjKKEq6-10" target="2DqYjKvhObYvgQIBGqHP-3">
+        <mxCell id="2DqYjKvhObYvgQIBGqHP-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MQpCo3Y2BnSfcWjKKEq6-10" target="2DqYjKvhObYvgQIBGqHP-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="340" as="sourcePoint" />
             <mxPoint x="790" y="225" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="225" />
+              <mxPoint x="770" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2DqYjKvhObYvgQIBGqHP-9" value="Share" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2DqYjKvhObYvgQIBGqHP-7">
           <mxGeometry x="-0.5235" y="-1" relative="1" as="geometry">
             <mxPoint x="3" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2DqYjKvhObYvgQIBGqHP-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2DqYjKvhObYvgQIBGqHP-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="220" as="sourcePoint" />
-            <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2DqYjKvhObYvgQIBGqHP-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQpCo3Y2BnSfcWjKKEq6-4" target="MQpCo3Y2BnSfcWjKKEq6-8">
@@ -322,7 +316,7 @@
           <mxGeometry x="610" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2DqYjKvhObYvgQIBGqHP-13" value="Dataflow Gen 2&lt;br&gt;1. SCCA Queries&lt;br&gt;2. PIB Queries&lt;br&gt;3. Delivery Queries" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="290" width="110" height="70" as="geometry" />
+          <mxGeometry x="30" y="340" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
