@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T08:44:58.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="u3GJAMSfiWa0755XYYhG" version="22.1.21" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-23T08:47:18.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="xj9QBbmG_ogE6Xg8i1R3" version="22.1.21" type="github" pages="4">
   <diagram name="General" id="MyQFximetOWyU0fwpo78">
     <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2s0IC3lo0n0N_XPBFGfa" name="Page-3">
-    <mxGraphModel dx="1066" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,7 +254,7 @@
           <mxGeometry x="450" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-10" value="Report Microsoft Power BI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="200" width="100" height="50" as="geometry" />
+          <mxGeometry x="590" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MQpCo3Y2BnSfcWjKKEq6-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MQpCo3Y2BnSfcWjKKEq6-1" target="MQpCo3Y2BnSfcWjKKEq6-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -291,6 +291,27 @@
         </mxCell>
         <mxCell id="2DqYjKvhObYvgQIBGqHP-1" value="&lt;b&gt;Data Collection (Data Exist)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2DqYjKvhObYvgQIBGqHP-3" value="Web Public" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2DqYjKvhObYvgQIBGqHP-6" value="Web Secure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2DqYjKvhObYvgQIBGqHP-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MQpCo3Y2BnSfcWjKKEq6-10" target="2DqYjKvhObYvgQIBGqHP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="780" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2DqYjKvhObYvgQIBGqHP-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="2DqYjKvhObYvgQIBGqHP-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
