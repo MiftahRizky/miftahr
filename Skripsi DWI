@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T12:53:03.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="dctWcpTeh3IXlJeLuFh0" version="24.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-01T12:56:13.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="IaSlmMVzNsRswh7ropTh" version="24.2.8" type="github" pages="2">
   <diagram name="Page-1" id="d_7Q-XEPe9z_FvYGHL0s">
     <mxGraphModel dx="1346" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,8 +24,8 @@
       <root>
         <mxCell id="XSuL9K_naIeR66DJIXlv-0" />
         <mxCell id="XSuL9K_naIeR66DJIXlv-1" parent="XSuL9K_naIeR66DJIXlv-0" />
-        <mxCell id="XSuL9K_naIeR66DJIXlv-4" value="1. Worker Competences&lt;div&gt;2. Worker regulation and procedure&lt;br&gt;3. Job Satisfaction&lt;/div&gt;&lt;div&gt;4. Management System&lt;/div&gt;&lt;div&gt;5. Documented Information&lt;/div&gt;&lt;div&gt;6. Performance&lt;/div&gt;&lt;div&gt;Monitoring&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
-          <mxGeometry x="290" y="160" width="190" height="120" as="geometry" />
+        <mxCell id="XSuL9K_naIeR66DJIXlv-4" value="&lt;div role=&quot;label&quot; tabindex=&quot;-1&quot;&gt;&lt;span data-is-focusable=&quot;true&quot; style=&quot;background-color: transparent;&quot; id=&quot;tgtAlignment_0&quot; class=&quot;ts-alignment-element&quot;&gt;OCCUPATIONAL&lt;/span&gt; &lt;span data-is-focusable=&quot;true&quot; style=&quot;background-color: transparent;&quot; id=&quot;tgtAlignment_1&quot; class=&quot;ts-alignment-element&quot;&gt;HEALTH&lt;/span&gt; &lt;span data-is-focusable=&quot;true&quot; style=&quot;background-color: transparent;&quot; id=&quot;tgtAlignment_2&quot; class=&quot;ts-alignment-element&quot;&gt;AND&lt;/span&gt; &lt;span data-is-focusable=&quot;true&quot; style=&quot;background-color: transparent;&quot; id=&quot;tgtAlignment_3&quot; class=&quot;ts-alignment-element&quot;&gt;SAFETY&lt;/span&gt; &lt;span data-is-focusable=&quot;true&quot; style=&quot;background-color: rgb(128, 128, 128);&quot; id=&quot;tgtAlignment_4&quot; class=&quot;ts-alignment-element-highlighted&quot;&gt;MANAGEMENT&lt;/span&gt; &lt;span data-is-focusable=&quot;true&quot; style=&quot;background-color: transparent;&quot; id=&quot;tgtAlignment_5&quot; class=&quot;ts-alignment-element&quot;&gt;SYSTEM&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="290" y="185" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XSuL9K_naIeR66DJIXlv-5" value="tingkat kejadian kecelakaan kerja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
           <mxGeometry x="580" y="160" width="160" height="120" as="geometry" />
@@ -36,8 +36,26 @@
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_cumxRS7ZKV8RdOlcxfy-4" value="Worker Competences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
-          <mxGeometry x="30" y="150" width="90" height="40" as="geometry" />
+        <mxCell id="_cumxRS7ZKV8RdOlcxfy-4" value="Job Satisfaction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="30" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_cumxRS7ZKV8RdOlcxfy-5" value="Worker Competences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="30" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_cumxRS7ZKV8RdOlcxfy-6" value="Worker Regulation and Procedure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="30" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_cumxRS7ZKV8RdOlcxfy-9" value="Management System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="30" y="250" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_cumxRS7ZKV8RdOlcxfy-10" value="Document Information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="30" y="330" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_cumxRS7ZKV8RdOlcxfy-11" value="Performance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="30" y="400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_cumxRS7ZKV8RdOlcxfy-12" value="Monitoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XSuL9K_naIeR66DJIXlv-1">
+          <mxGeometry x="30" y="470" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
