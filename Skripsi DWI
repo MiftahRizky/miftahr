@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T16:33:57.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="eeGaqBoMLGxnt_dmtbhL" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-04T17:35:33.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="E05GXCEMbx0MsZmWez0h" version="24.3.1" type="github" pages="3">
   <diagram name="Page-1" id="d_7Q-XEPe9z_FvYGHL0s">
     <mxGraphModel dx="1106" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,25 +56,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ysE7U8lxJqDMYQCxk_p4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ysE7U8lxJqDMYQCxk_p4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="170" width="540" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="hnWYh61mrNjO8E0QTo82-7" value="&lt;span class=&quot;ts-alignment-element&quot; id=&quot;tgtAlignment_0&quot; data-is-focusable=&quot;true&quot;&gt;OCCUPATIONAL&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;ts-alignment-element&quot; id=&quot;tgtAlignment_1&quot; data-is-focusable=&quot;true&quot;&gt;HEALTH&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;ts-alignment-element&quot; id=&quot;tgtAlignment_2&quot; data-is-focusable=&quot;true&quot;&gt;AND&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;span class=&quot;ts-alignment-element&quot; id=&quot;tgtAlignment_3&quot; data-is-focusable=&quot;true&quot;&gt;SAFETY&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;ts-alignment-element-highlighted&quot; id=&quot;tgtAlignment_4&quot; data-is-focusable=&quot;true&quot;&gt;MANAGEMENT&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;ts-alignment-element&quot; id=&quot;tgtAlignment_5&quot; data-is-focusable=&quot;true&quot;&gt;SYSTEM&lt;br&gt;&lt;/span&gt;&lt;br&gt;1. Worker Regulation and Procedure&lt;div&gt;2. Worker Competences&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Job Satisfaction&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. Document Information&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="hnWYh61mrNjO8E0QTo82-7" value="&lt;div&gt;Sistem Manajemen&amp;nbsp; Kesehatan dan Keselamatan Kerja&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Peraturan dan Prosedur Pekerja&lt;/div&gt;&lt;div&gt;2. Kompetensi Pekerja&lt;/div&gt;&lt;div&gt;3. Kepuasan Kerja&lt;/div&gt;&lt;div&gt;4. Informasi Dokumen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="200" y="230" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hnWYh61mrNjO8E0QTo82-22" value="Work Accident" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hnWYh61mrNjO8E0QTo82-22" value="Work Accident" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="240" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ysE7U8lxJqDMYQCxk_p4-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnWYh61mrNjO8E0QTo82-7" target="hnWYh61mrNjO8E0QTo82-22">
+        <mxCell id="ysE7U8lxJqDMYQCxk_p4-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hnWYh61mrNjO8E0QTo82-7" target="hnWYh61mrNjO8E0QTo82-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="340" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ysE7U8lxJqDMYQCxk_p4-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Variabel Independence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ysE7U8lxJqDMYQCxk_p4-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Variabel Independence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="235" y="150" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ysE7U8lxJqDMYQCxk_p4-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Variabel Dependent&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="ysE7U8lxJqDMYQCxk_p4-3" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Variabel Dependent&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="550" y="170" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
