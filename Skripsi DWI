@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T16:26:36.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="PqhekmYzzkuZZwjJnBAZ" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-04T16:27:14.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="iH-V6X308C1jGZddopuJ" version="24.3.1" type="github" pages="3">
   <diagram name="Page-1" id="d_7Q-XEPe9z_FvYGHL0s">
     <mxGraphModel dx="1106" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,10 +27,10 @@
         <mxCell id="_cumxRS7ZKV8RdOlcxfy-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="XSuL9K_naIeR66DJIXlv-1" vertex="1">
           <mxGeometry x="40" y="40" width="740" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="XSuL9K_naIeR66DJIXlv-4" value="&lt;div tabindex=&quot;-1&quot; role=&quot;label&quot; style=&quot;&quot;&gt;SISTEM MANAJEMEN KESEHATAN DAN KESELAMATAN KERJA&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="XSuL9K_naIeR66DJIXlv-1" vertex="1">
+        <mxCell id="XSuL9K_naIeR66DJIXlv-4" value="&lt;div tabindex=&quot;-1&quot; role=&quot;label&quot; style=&quot;&quot;&gt;Sistem Manajemen&amp;nbsp; Kesehatan dan Keselamatan Kerja&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="XSuL9K_naIeR66DJIXlv-1" vertex="1">
           <mxGeometry x="358" y="215" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XSuL9K_naIeR66DJIXlv-5" value="Kecelakaan kerja" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="XSuL9K_naIeR66DJIXlv-1" vertex="1">
+        <mxCell id="XSuL9K_naIeR66DJIXlv-5" value="Kecelakaan Kerja" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;" parent="XSuL9K_naIeR66DJIXlv-1" vertex="1">
           <mxGeometry x="568" y="215" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_cumxRS7ZKV8RdOlcxfy-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontFamily=Times New Roman;" parent="XSuL9K_naIeR66DJIXlv-1" source="XSuL9K_naIeR66DJIXlv-4" target="XSuL9K_naIeR66DJIXlv-5" edge="1">
