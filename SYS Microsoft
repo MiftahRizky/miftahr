@@ -10,6 +10,9 @@
         <mxCell id="U5N-wCGIS-Zh3VvAq15X-1" value="Excel Beginner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="110" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mVMFSjUMyd_QClVo94Ga-1" value="Excel Intermediate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
