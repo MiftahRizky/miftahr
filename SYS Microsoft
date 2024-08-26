@@ -11,19 +11,19 @@
           <mxGeometry x="620" y="200" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mVMFSjUMyd_QClVo94Ga-11" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="240" y="200" width="314" height="150" as="geometry" />
+          <mxGeometry x="160" y="185" width="400" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mVMFSjUMyd_QClVo94Ga-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="mVMFSjUMyd_QClVo94Ga-11" vertex="1">
-          <mxGeometry width="314" height="150" as="geometry" />
+          <mxGeometry width="399.99999999999994" height="180" as="geometry" />
         </mxCell>
         <mxCell id="U5N-wCGIS-Zh3VvAq15X-1" value="Excel Beginner" style="rounded=1;whiteSpace=wrap;html=1;" parent="mVMFSjUMyd_QClVo94Ga-11" vertex="1">
-          <mxGeometry x="27.474999999999998" y="58.695652173913025" width="54.949999999999996" height="32.60869565217391" as="geometry" />
+          <mxGeometry x="34.99999999999999" y="70.43478260869563" width="69.99999999999999" height="39.13043478260869" as="geometry" />
         </mxCell>
         <mxCell id="mVMFSjUMyd_QClVo94Ga-1" value="Excel Intermediate" style="rounded=1;whiteSpace=wrap;html=1;" parent="mVMFSjUMyd_QClVo94Ga-11" vertex="1">
-          <mxGeometry x="129.525" y="58.695652173913025" width="54.949999999999996" height="32.60869565217391" as="geometry" />
+          <mxGeometry x="165" y="70.43478260869563" width="69.99999999999999" height="39.13043478260869" as="geometry" />
         </mxCell>
         <mxCell id="mVMFSjUMyd_QClVo94Ga-2" value="Excel Advanced" style="rounded=1;whiteSpace=wrap;html=1;" parent="mVMFSjUMyd_QClVo94Ga-11" vertex="1">
-          <mxGeometry x="231.575" y="58.695652173913025" width="54.949999999999996" height="32.60869565217391" as="geometry" />
+          <mxGeometry x="295" y="70.43478260869563" width="69.99999999999999" height="39.13043478260869" as="geometry" />
         </mxCell>
         <mxCell id="o9elkcdXNlPfMjHJCawf-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="245" width="30" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o9elkcdXNlPfMjHJCawf-5" value="Report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="420" width="95" height="60" as="geometry" />
+          <mxGeometry x="667.5" y="420" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
