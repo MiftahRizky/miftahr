@@ -530,7 +530,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6Z2yW9c6BCcQ1zXGZKIv" name="Microsoft Flow Website">
-    <mxGraphModel dx="1106" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="676" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,7 +538,7 @@
           <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i11AG2WK7t-V0-CtAZsy-1" value="Data Engineering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="110" width="110" height="60" as="geometry" />
+          <mxGeometry x="45" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i11AG2WK7t-V0-CtAZsy-2" value="Data Science" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="110" width="110" height="60" as="geometry" />
@@ -546,10 +546,10 @@
         <mxCell id="i11AG2WK7t-V0-CtAZsy-3" value="Data Analyst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i11AG2WK7t-V0-CtAZsy-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i11AG2WK7t-V0-CtAZsy-1">
+        <mxCell id="i11AG2WK7t-V0-CtAZsy-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i11AG2WK7t-V0-CtAZsy-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="240" as="sourcePoint" />
-            <mxPoint x="95" y="240" as="targetPoint" />
+            <mxPoint x="100" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i11AG2WK7t-V0-CtAZsy-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i11AG2WK7t-V0-CtAZsy-2">
@@ -563,6 +563,9 @@
             <mxPoint x="390" y="240" as="sourcePoint" />
             <mxPoint x="745" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i11AG2WK7t-V0-CtAZsy-9" value="&lt;ol style=&quot;line-height: 100%;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Collection and Integration&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Processing and Transformation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data and Design Infrastructure&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Monitoring and Maintenance&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Collabaration&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
