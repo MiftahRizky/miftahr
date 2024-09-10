@@ -546,6 +546,12 @@
         <mxCell id="i11AG2WK7t-V0-CtAZsy-3" value="Data Analyst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i11AG2WK7t-V0-CtAZsy-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i11AG2WK7t-V0-CtAZsy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="95" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
