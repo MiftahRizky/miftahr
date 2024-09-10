@@ -541,10 +541,10 @@
           <mxGeometry x="40" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i11AG2WK7t-V0-CtAZsy-2" value="Data Scince" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="110" width="110" height="60" as="geometry" />
+          <mxGeometry x="244" y="110" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i11AG2WK7t-V0-CtAZsy-3" value="Data Analyst" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="110" width="110" height="60" as="geometry" />
+          <mxGeometry x="450" y="110" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
