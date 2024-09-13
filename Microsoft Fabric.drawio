@@ -349,6 +349,9 @@
         <mxCell id="vkwvWh5aP9pC-FnXstGp-6" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
           <mxGeometry x="-440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vkwvWh5aP9pC-FnXstGp-7" value="Reseller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
+          <mxGeometry x="-250" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
