@@ -260,6 +260,9 @@
         <mxCell id="22IVTrl16Y_1vauHflDe-9" value="Terpal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pICQGRH1FjP4rDoRofgO-1">
           <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-10" value="Plastik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pICQGRH1FjP4rDoRofgO-1">
+          <mxGeometry x="750" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
