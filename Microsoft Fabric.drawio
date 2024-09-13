@@ -251,6 +251,15 @@
             <mxPoint x="450" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="pICQGRH1FjP4rDoRofgO-1" source="22IVTrl16Y_1vauHflDe-0" target="22IVTrl16Y_1vauHflDe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+            <mxPoint x="620" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-9" value="Terpal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pICQGRH1FjP4rDoRofgO-1">
+          <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
