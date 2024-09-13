@@ -436,6 +436,11 @@
             <mxPoint x="30" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vkwvWh5aP9pC-FnXstGp-40" value="Technology" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vkwvWh5aP9pC-FnXstGp-26">
+          <mxGeometry x="-0.3588" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vkwvWh5aP9pC-FnXstGp-27" value="Microsoft Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
           <mxGeometry x="-30" y="740" width="120" height="60" as="geometry" />
         </mxCell>
