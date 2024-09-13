@@ -346,7 +346,7 @@
             <mxPoint x="-270" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vkwvWh5aP9pC-FnXstGp-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
+        <mxCell id="vkwvWh5aP9pC-FnXstGp-6" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
           <mxGeometry x="-440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
