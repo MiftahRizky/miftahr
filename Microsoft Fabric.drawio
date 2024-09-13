@@ -469,10 +469,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vkwvWh5aP9pC-FnXstGp-33" value="Kesehatan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
-          <mxGeometry x="240" y="619.9999999999998" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="619.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vkwvWh5aP9pC-FnXstGp-35" value="Manufacturing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
-          <mxGeometry x="220" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vkwvWh5aP9pC-FnXstGp-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QSXaHmfgRlK9UYTjBnyV-1" source="vkwvWh5aP9pC-FnXstGp-25" target="vkwvWh5aP9pC-FnXstGp-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
