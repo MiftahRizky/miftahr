@@ -428,7 +428,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vkwvWh5aP9pC-FnXstGp-25" value="Fabric Partner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
-          <mxGeometry x="-50" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vkwvWh5aP9pC-FnXstGp-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QSXaHmfgRlK9UYTjBnyV-1" source="vkwvWh5aP9pC-FnXstGp-25" target="vkwvWh5aP9pC-FnXstGp-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="590" as="sourcePoint" />
+            <mxPoint x="30" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vkwvWh5aP9pC-FnXstGp-27" value="Microsoft Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
+          <mxGeometry x="-30" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vkwvWh5aP9pC-FnXstGp-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QSXaHmfgRlK9UYTjBnyV-1" source="vkwvWh5aP9pC-FnXstGp-27" target="vkwvWh5aP9pC-FnXstGp-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="790" as="sourcePoint" />
+            <mxPoint x="30" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vkwvWh5aP9pC-FnXstGp-29" value="DAX, SQL, Phyton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
+          <mxGeometry x="-30" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
