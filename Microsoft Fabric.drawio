@@ -618,8 +618,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9Ib0u7mJioKMqFNypNIz-1" value="Data Science" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9Ib0u7mJioKMqFNypNIz-1" value="Data Science" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="-1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WN0fmXmycBW-zaHISKO6-1" value="Create Lakehouse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
