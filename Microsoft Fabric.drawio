@@ -221,6 +221,36 @@
       <root>
         <mxCell id="pICQGRH1FjP4rDoRofgO-0" />
         <mxCell id="pICQGRH1FjP4rDoRofgO-1" parent="pICQGRH1FjP4rDoRofgO-0" />
+        <mxCell id="22IVTrl16Y_1vauHflDe-0" value="Toko Hani" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pICQGRH1FjP4rDoRofgO-1">
+          <mxGeometry x="365" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="pICQGRH1FjP4rDoRofgO-1" source="22IVTrl16Y_1vauHflDe-0" target="22IVTrl16Y_1vauHflDe-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+            <mxPoint x="230" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-2" value="Karpet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pICQGRH1FjP4rDoRofgO-1">
+          <mxGeometry x="40" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-3" value="Busa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pICQGRH1FjP4rDoRofgO-1">
+          <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pICQGRH1FjP4rDoRofgO-1" source="22IVTrl16Y_1vauHflDe-0" target="22IVTrl16Y_1vauHflDe-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+            <mxPoint x="450" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-5" value="Interior" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pICQGRH1FjP4rDoRofgO-1">
+          <mxGeometry x="425" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="22IVTrl16Y_1vauHflDe-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pICQGRH1FjP4rDoRofgO-1" source="22IVTrl16Y_1vauHflDe-0" target="22IVTrl16Y_1vauHflDe-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="sourcePoint" />
+            <mxPoint x="450" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
