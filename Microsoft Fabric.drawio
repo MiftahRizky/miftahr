@@ -442,7 +442,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vkwvWh5aP9pC-FnXstGp-27" value="Microsoft Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QSXaHmfgRlK9UYTjBnyV-1">
-          <mxGeometry x="-30" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vkwvWh5aP9pC-FnXstGp-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QSXaHmfgRlK9UYTjBnyV-1" source="vkwvWh5aP9pC-FnXstGp-27" target="vkwvWh5aP9pC-FnXstGp-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
