@@ -336,10 +336,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CiPjPe0RFMhu3mYVSZzV-1" value="Busa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CmQeNxQVcNN95nYm4bB4-3" value="Busa Ati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmQeNxQVcNN95nYm4bB4-4" value="Busa Ati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CmQeNxQVcNN95nYm4bB4-5" value="Busa Ati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
