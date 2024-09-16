@@ -341,7 +341,7 @@
             <mxPoint x="750" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OYqJT_qaOiRhVrdxG1-r-1" value="Data Insight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
+        <mxCell id="OYqJT_qaOiRhVrdxG1-r-1" value="Build Data Insight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
           <mxGeometry x="690" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
