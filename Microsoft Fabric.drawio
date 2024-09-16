@@ -836,7 +836,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Microsoft Fabric Exam Flow" id="SKBcOXv2_U0yofZI_SQ-">
-    <mxGraphModel dx="1346" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-0" />
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-1" parent="_Z6k2WcOkSKDIZ1QO_Sa-0" />
@@ -861,11 +861,14 @@
         <mxCell id="LCmoiHxC97xurF0qD2qB-5" value="Ingest Data with Spark and Microsoft Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
           <mxGeometry x="250" y="130" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="LCmoiHxC97xurF0qD2qB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-0">
+        <mxCell id="LCmoiHxC97xurF0qD2qB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-0" target="LCmoiHxC97xurF0qD2qB-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="250" as="sourcePoint" />
             <mxPoint x="250" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LCmoiHxC97xurF0qD2qB-8" value="Ingest Data with Data Factory Pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="230" y="200" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
