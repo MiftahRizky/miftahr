@@ -915,7 +915,7 @@
             <mxPoint x="270" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCmoiHxC97xurF0qD2qB-23" value="Secure a Microsoft Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+        <mxCell id="LCmoiHxC97xurF0qD2qB-23" value="Secure a Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
           <mxGeometry x="245" y="550" width="95" height="45" as="geometry" />
         </mxCell>
       </root>
