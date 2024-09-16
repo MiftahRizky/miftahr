@@ -649,7 +649,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZLMzTD4144mSciD9uFp-5" value="Enforce Power BI Model Security" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="225" y="710" width="120" height="30" as="geometry" />
+          <mxGeometry x="235" y="720" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
