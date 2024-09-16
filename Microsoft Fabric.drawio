@@ -836,7 +836,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Microsoft Fabric Exam Flow" id="SKBcOXv2_U0yofZI_SQ-">
-    <mxGraphModel dx="769" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-0" />
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-1" parent="_Z6k2WcOkSKDIZ1QO_Sa-0" />
@@ -869,6 +869,9 @@
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-8" value="Ingest Data with Data Factory Pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
           <mxGeometry x="230" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LCmoiHxC97xurF0qD2qB-11" value="Implement a data Warehouse in Fabric" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="30" y="320" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
