@@ -335,6 +335,15 @@
         <mxCell id="7nyL2iqiai8q92V9KYH4-44" value="Pelatihan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
           <mxGeometry x="540" y="419.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OYqJT_qaOiRhVrdxG1-r-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7nyL2iqiai8q92V9KYH4-1" source="7nyL2iqiai8q92V9KYH4-37" target="OYqJT_qaOiRhVrdxG1-r-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="300" as="sourcePoint" />
+            <mxPoint x="750" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYqJT_qaOiRhVrdxG1-r-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
+          <mxGeometry x="690" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
