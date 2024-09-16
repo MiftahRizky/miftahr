@@ -918,6 +918,9 @@
         <mxCell id="LCmoiHxC97xurF0qD2qB-23" value="Secure a Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
           <mxGeometry x="245" y="500" width="95" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="LCmoiHxC97xurF0qD2qB-24" value="Implement a data Warehouse in Fabric" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="30" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
