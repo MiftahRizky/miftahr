@@ -341,10 +341,10 @@
         <mxCell id="CmQeNxQVcNN95nYm4bB4-3" value="Busa Ati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CmQeNxQVcNN95nYm4bB4-4" value="Busa Ati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CmQeNxQVcNN95nYm4bB4-4" value="Ukuran 1,6 meter x 2,6 meter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CmQeNxQVcNN95nYm4bB4-5" value="Busa Ati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CmQeNxQVcNN95nYm4bB4-5" value="Ukuran 1,2 meter x 2 meter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
