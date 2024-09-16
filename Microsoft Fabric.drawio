@@ -654,6 +654,15 @@
         <mxCell id="DZLMzTD4144mSciD9uFp-6" value="Implement Lakehouse in Fabric" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
           <mxGeometry x="30" y="840" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DZLMzTD4144mSciD9uFp-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="DZLMzTD4144mSciD9uFp-6" target="DZLMzTD4144mSciD9uFp-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="800" as="sourcePoint" />
+            <mxPoint x="280" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DZLMzTD4144mSciD9uFp-9" value="Medallion Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="280" y="805" width="80" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
