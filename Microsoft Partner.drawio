@@ -264,7 +264,7 @@
           <mxGeometry x="1250" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nyL2iqiai8q92V9KYH4-17" value="Annata" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
-          <mxGeometry x="-640" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="-820" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nyL2iqiai8q92V9KYH4-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="7nyL2iqiai8q92V9KYH4-1" source="7nyL2iqiai8q92V9KYH4-15" target="7nyL2iqiai8q92V9KYH4-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
