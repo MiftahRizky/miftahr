@@ -879,7 +879,7 @@
             <mxPoint x="250" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LCmoiHxC97xurF0qD2qB-14" value="Introduce Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+        <mxCell id="LCmoiHxC97xurF0qD2qB-14" value="Get Started Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
           <mxGeometry x="250" y="305" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
