@@ -840,6 +840,27 @@
       <root>
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-0" />
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-1" parent="_Z6k2WcOkSKDIZ1QO_Sa-0" />
+        <mxCell id="LCmoiHxC97xurF0qD2qB-0" value="Ingest Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="30" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LCmoiHxC97xurF0qD2qB-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-0" target="LCmoiHxC97xurF0qD2qB-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="280" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCmoiHxC97xurF0qD2qB-2" value="Ingest Data Flow Gen2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="250" y="70" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LCmoiHxC97xurF0qD2qB-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-0" target="LCmoiHxC97xurF0qD2qB-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCmoiHxC97xurF0qD2qB-5" value="Ingest Data with Spark and Microsoft Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="250" y="130" width="120" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
