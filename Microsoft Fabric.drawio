@@ -652,7 +652,7 @@
           <mxGeometry x="235" y="720" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DZLMzTD4144mSciD9uFp-6" value="Implement Lakehouse in Fabric" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="30" y="830" width="90" height="60" as="geometry" />
+          <mxGeometry x="30" y="840" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
