@@ -633,14 +633,23 @@
         <mxCell id="DZLMzTD4144mSciD9uFp-1" value="Create Power BI Model Relationship" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
           <mxGeometry x="260" y="577.5" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="DZLMzTD4144mSciD9uFp-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-24" target="DZLMzTD4144mSciD9uFp-3">
+        <mxCell id="DZLMzTD4144mSciD9uFp-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-24" target="DZLMzTD4144mSciD9uFp-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="630" as="sourcePoint" />
             <mxPoint x="240" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DZLMzTD4144mSciD9uFp-3" value="Use Tools to Optimize Power BI Performance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="265" y="640" width="135" height="55" as="geometry" />
+          <mxGeometry x="265" y="640" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DZLMzTD4144mSciD9uFp-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-24" target="DZLMzTD4144mSciD9uFp-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="630" as="sourcePoint" />
+            <mxPoint x="260" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DZLMzTD4144mSciD9uFp-5" value="Enforce Power BI Model Security" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
+          <mxGeometry x="225" y="710" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
