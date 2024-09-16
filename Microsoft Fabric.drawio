@@ -841,82 +841,82 @@
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-0" />
         <mxCell id="_Z6k2WcOkSKDIZ1QO_Sa-1" parent="_Z6k2WcOkSKDIZ1QO_Sa-0" />
         <mxCell id="LCmoiHxC97xurF0qD2qB-0" value="Ingest Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="30" y="130" width="90" height="60" as="geometry" />
+          <mxGeometry x="30" y="80" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-0" target="LCmoiHxC97xurF0qD2qB-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="250" as="sourcePoint" />
-            <mxPoint x="280" y="100" as="targetPoint" />
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="280" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-2" value="Ingest Data Flow Gen2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="250" y="70" width="70" height="45" as="geometry" />
+          <mxGeometry x="250" y="20" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-0" target="LCmoiHxC97xurF0qD2qB-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="250" as="sourcePoint" />
-            <mxPoint x="250" y="160" as="targetPoint" />
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="250" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-5" value="Ingest Data with Spark and Microsoft Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="250" y="130" width="120" height="45" as="geometry" />
+          <mxGeometry x="250" y="80" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-0" target="LCmoiHxC97xurF0qD2qB-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="250" as="sourcePoint" />
-            <mxPoint x="250" y="210" as="targetPoint" />
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="250" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-8" value="Ingest Data with Data Factory Pipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="230" y="210" width="130" height="30" as="geometry" />
+          <mxGeometry x="230" y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-11" value="Implement a data Warehouse in Fabric" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="30" y="320" width="90" height="60" as="geometry" />
+          <mxGeometry x="30" y="270" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-11" target="LCmoiHxC97xurF0qD2qB-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="330" as="sourcePoint" />
-            <mxPoint x="250" y="320" as="targetPoint" />
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="250" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-14" value="Get Started Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="250" y="305" width="100" height="30" as="geometry" />
+          <mxGeometry x="250" y="255" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-11" target="LCmoiHxC97xurF0qD2qB-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="330" as="sourcePoint" />
-            <mxPoint x="250" y="380" as="targetPoint" />
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-16" value="Load Data into a data warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="250" y="370" width="130" height="30" as="geometry" />
+          <mxGeometry x="250" y="320" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-11" target="LCmoiHxC97xurF0qD2qB-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="500" as="sourcePoint" />
-            <mxPoint x="250" y="430" as="targetPoint" />
+            <mxPoint x="430" y="450" as="sourcePoint" />
+            <mxPoint x="250" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-19" value="Query Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="220" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="220" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-11" target="LCmoiHxC97xurF0qD2qB-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="500" as="sourcePoint" />
-            <mxPoint x="250" y="490" as="targetPoint" />
+            <mxPoint x="430" y="450" as="sourcePoint" />
+            <mxPoint x="250" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-21" value="Monitor Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="235" y="480" width="100" height="30" as="geometry" />
+          <mxGeometry x="235" y="430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1" source="LCmoiHxC97xurF0qD2qB-11" target="LCmoiHxC97xurF0qD2qB-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="500" as="sourcePoint" />
-            <mxPoint x="270" y="560" as="targetPoint" />
+            <mxPoint x="430" y="450" as="sourcePoint" />
+            <mxPoint x="270" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LCmoiHxC97xurF0qD2qB-23" value="Secure a Data Warehouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_Z6k2WcOkSKDIZ1QO_Sa-1">
-          <mxGeometry x="245" y="550" width="95" height="45" as="geometry" />
+          <mxGeometry x="245" y="500" width="95" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
