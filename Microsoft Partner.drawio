@@ -344,8 +344,11 @@
         <mxCell id="OYqJT_qaOiRhVrdxG1-r-1" value="Data and AI" style="rounded=1;whiteSpace=wrap;html=1;" parent="7nyL2iqiai8q92V9KYH4-1" vertex="1">
           <mxGeometry x="630" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CDtg8fYI4SWc636G0K56-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
+        <mxCell id="CDtg8fYI4SWc636G0K56-0" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
           <mxGeometry x="790" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CDtg8fYI4SWc636G0K56-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
+          <mxGeometry x="950" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
