@@ -347,6 +347,9 @@
         <mxCell id="CDtg8fYI4SWc636G0K56-0" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
           <mxGeometry x="790" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CDtg8fYI4SWc636G0K56-3" value="Modern Apps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7nyL2iqiai8q92V9KYH4-1">
+          <mxGeometry x="34" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
