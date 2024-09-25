@@ -270,7 +270,7 @@
           <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nyL2iqiai8q92V9KYH4-21" value="Partner" style="rounded=1;whiteSpace=wrap;html=1;" parent="7nyL2iqiai8q92V9KYH4-1" vertex="1">
-          <mxGeometry x="530" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nyL2iqiai8q92V9KYH4-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="7nyL2iqiai8q92V9KYH4-1" source="7nyL2iqiai8q92V9KYH4-15" target="7nyL2iqiai8q92V9KYH4-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
