@@ -34,7 +34,7 @@
             <mxPoint x="440" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zu4F2parIVNubBuWY-0n-10" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zu4F2parIVNubBuWY-0n-10" value="Role" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zu4F2parIVNubBuWY-0n-10" target="Zu4F2parIVNubBuWY-0n-5">
@@ -56,6 +56,15 @@
           <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zu4F2parIVNubBuWY-0n-14" target="Zu4F2parIVNubBuWY-0n-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zu4F2parIVNubBuWY-0n-16" value="Authentication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zu4F2parIVNubBuWY-0n-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zu4F2parIVNubBuWY-0n-16" target="Zu4F2parIVNubBuWY-0n-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="330" as="sourcePoint" />
             <mxPoint x="440" y="280" as="targetPoint" />
