@@ -14,7 +14,7 @@
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-4" value="Data integration dan data vector with AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="130" height="90" as="geometry" />
+          <mxGeometry x="40" y="240" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-5" value="System Approval dan Edit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="240" width="130" height="90" as="geometry" />
