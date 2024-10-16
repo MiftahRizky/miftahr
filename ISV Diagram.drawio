@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-2" value="System 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-3" value="System 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="595" y="240" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-6" value="Sharepoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="120" height="90" as="geometry" />
+          <mxGeometry x="310" y="240" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Zu4F2parIVNubBuWY-0n-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zu4F2parIVNubBuWY-0n-4" target="Zu4F2parIVNubBuWY-0n-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
