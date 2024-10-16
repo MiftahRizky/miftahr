@@ -34,7 +34,7 @@
             <mxPoint x="440" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zu4F2parIVNubBuWY-0n-18" value="added pipeline" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zu4F2parIVNubBuWY-0n-8">
+        <mxCell id="Zu4F2parIVNubBuWY-0n-18" value="added data pipeline" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zu4F2parIVNubBuWY-0n-8">
           <mxGeometry x="0.0118" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
