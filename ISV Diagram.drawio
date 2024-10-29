@@ -185,6 +185,9 @@
         <mxCell id="icnW5XPmlF-faMR3OaET-3" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="icnW5XPmlF-faMR3OaET-4" value="Campaing and Marketing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
