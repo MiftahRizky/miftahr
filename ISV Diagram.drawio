@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3" pages="7">
   <diagram name="Main" id="lsRAPk8epdy8I-OjBECe">
     <mxGraphModel dx="1346" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,9 +185,6 @@
         <mxCell id="icnW5XPmlF-faMR3OaET-3" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="icnW5XPmlF-faMR3OaET-4" value="Campaing and Marketing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="570" width="80" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -231,6 +228,17 @@
         <mxCell id="0Lsl5HfvUSszF8LU_dCX-1" parent="0Lsl5HfvUSszF8LU_dCX-0" />
         <mxCell id="0Lsl5HfvUSszF8LU_dCX-2" value="Manajemen Keuangan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0Lsl5HfvUSszF8LU_dCX-1">
           <mxGeometry x="353" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tWyQZ2a1aCyI8f9hCr2v" name="Page-7">
+    <mxGraphModel dx="1346" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t1moS1SOs8TVLndS1jvQ-1" value="Campaing and Marketing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="20" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
