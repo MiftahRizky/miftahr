@@ -191,10 +191,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="System 3" id="s_FI0Ar32gJ-jFhfW0q-">
-    <mxGraphModel dx="1346" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1923" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HJpX61xAXo84aMSUDDDO-0" />
         <mxCell id="HJpX61xAXo84aMSUDDDO-1" parent="HJpX61xAXo84aMSUDDDO-0" />
+        <mxCell id="ATi-x2jAiz2BPVh0Hh4h-0" value="Pelanggan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HJpX61xAXo84aMSUDDDO-1">
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
