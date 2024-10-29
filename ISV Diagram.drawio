@@ -272,13 +272,22 @@
           <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FjEvWD6eg-GepFSHgVE-3" value="Pengiriman data ke teknologi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="120" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FjEvWD6eg-GepFSHgVE-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FjEvWD6eg-GepFSHgVE-2" target="9FjEvWD6eg-GepFSHgVE-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="200" as="sourcePoint" />
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9FjEvWD6eg-GepFSHgVE-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9FjEvWD6eg-GepFSHgVE-3" target="9FjEvWD6eg-GepFSHgVE-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FjEvWD6eg-GepFSHgVE-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
