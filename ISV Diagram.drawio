@@ -179,8 +179,8 @@
         <mxCell id="icnW5XPmlF-faMR3OaET-1" value="Penyimpanan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="icnW5XPmlF-faMR3OaET-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="460" width="60" height="30" as="geometry" />
+        <mxCell id="icnW5XPmlF-faMR3OaET-2" value="tracking and recording" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
