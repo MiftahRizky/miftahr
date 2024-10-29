@@ -294,6 +294,15 @@
         <mxCell id="9FjEvWD6eg-GepFSHgVE-6" value="proses data dan seleksi data yang dibutuhkan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9FjEvWD6eg-GepFSHgVE-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9FjEvWD6eg-GepFSHgVE-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9FjEvWD6eg-GepFSHgVE-6" target="9FjEvWD6eg-GepFSHgVE-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
