@@ -269,7 +269,7 @@
           <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FjEvWD6eg-GepFSHgVE-2" value="Penyimpanan invoice dan pengecekan kecocokan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FjEvWD6eg-GepFSHgVE-3" value="Pengiriman data ke teknologi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="130" height="60" as="geometry" />
@@ -280,6 +280,11 @@
             <mxPoint x="440" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9FjEvWD6eg-GepFSHgVE-7" value="Orchestration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9FjEvWD6eg-GepFSHgVE-4">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9FjEvWD6eg-GepFSHgVE-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9FjEvWD6eg-GepFSHgVE-3" target="9FjEvWD6eg-GepFSHgVE-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="340" as="sourcePoint" />
@@ -287,7 +292,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9FjEvWD6eg-GepFSHgVE-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
