@@ -141,7 +141,7 @@
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-0" />
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-1" parent="GnO7oN7-yZS1G5JcIBq4-0" />
         <mxCell id="GDZB9uSVZSDb9YgSg5_9-0" value="Portfolio and Asset Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
-          <mxGeometry x="40" y="80" width="140" height="60" as="geometry" />
+          <mxGeometry x="40" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GDZB9uSVZSDb9YgSg5_9-1" value="Previous meeting calls and transcript data tentang kerjaan, hukum dan lain lain konsultasi lah tibanya (Video source and transcript data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="170" width="140" height="90" as="geometry" />
