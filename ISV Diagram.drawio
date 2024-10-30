@@ -140,7 +140,7 @@
       <root>
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-0" />
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-1" parent="GnO7oN7-yZS1G5JcIBq4-0" />
-        <mxCell id="GDZB9uSVZSDb9YgSg5_9-0" value="Portfolio and Asset Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="GDZB9uSVZSDb9YgSg5_9-0" value="Portfolio and Asset Data (Structured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GDZB9uSVZSDb9YgSg5_9-1" value="Previous meeting calls and transcript data tentang kerjaan, hukum dan lain lain konsultasi lah tibanya (Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="8AYnzW_t1eya-8k0bTI7-0" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="680" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b20DuxpkeWqnIMwyAYlx-0" value="Campaign and Marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+          <mxGeometry x="40" y="510" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
