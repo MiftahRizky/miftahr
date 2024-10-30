@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Main" id="CQ_aiBZu0D-VB5VW0tHb">
-    <mxGraphModel dx="1203" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-0" />
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-1" parent="GnO7oN7-yZS1G5JcIBq4-0" />
@@ -157,6 +157,9 @@
         </mxCell>
         <mxCell id="b20DuxpkeWqnIMwyAYlx-0" value="Campaign and Marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="510" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b20DuxpkeWqnIMwyAYlx-1" value="Storage Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
