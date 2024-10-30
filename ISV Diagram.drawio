@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3" pages="11">
   <diagram name="Main" id="lsRAPk8epdy8I-OjBECe">
     <mxGraphModel dx="1346" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,6 +161,14 @@
         <mxCell id="b20DuxpkeWqnIMwyAYlx-1" value="Storage Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="270" y="295" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Main" id="wEXR8go24bZy78mwmGwm">
+    <mxGraphModel dx="1744" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KJlCMLgnTblBi6V4xJmq-0" />
+        <mxCell id="KJlCMLgnTblBi6V4xJmq-1" parent="KJlCMLgnTblBi6V4xJmq-0" />
       </root>
     </mxGraphModel>
   </diagram>
