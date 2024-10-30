@@ -143,13 +143,13 @@
         <mxCell id="GDZB9uSVZSDb9YgSg5_9-0" value="Portfolio and Asset Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="80" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GDZB9uSVZSDb9YgSg5_9-1" value="Previous meeting calls and transcript data tentang kerjaan, hukum dan lain lain konsultasi lah tibanya (Video source and transcript data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="GDZB9uSVZSDb9YgSg5_9-1" value="Previous meeting calls and transcript data tentang kerjaan, hukum dan lain lain konsultasi lah tibanya (Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="170" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GDZB9uSVZSDb9YgSg5_9-2" value="Source Knowledge Repository, draft proposal, and etc&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="GDZB9uSVZSDb9YgSg5_9-2" value="Source Knowledge Repository, draft proposal, and etc (Unstructured data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="280" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xYEkxMrbQmGV3ljcZIsH-0" value="Invoice Source (pdf, image, and doc)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="xYEkxMrbQmGV3ljcZIsH-0" value="Invoice Source ( Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="370" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
