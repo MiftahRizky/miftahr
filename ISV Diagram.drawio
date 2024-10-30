@@ -146,10 +146,10 @@
         <mxCell id="GDZB9uSVZSDb9YgSg5_9-1" value="Previous meeting calls and transcript data (Video source)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GDZB9uSVZSDb9YgSg5_9-2" value="Source Knowledge Repository, draft proposal, and etc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="GDZB9uSVZSDb9YgSg5_9-2" value="Source Knowledge Repository, draft proposal, and etc&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xYEkxMrbQmGV3ljcZIsH-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="xYEkxMrbQmGV3ljcZIsH-0" value="Invoice Source (pdf, image, and doc)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
