@@ -173,7 +173,7 @@
           <mxGeometry x="20" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kqRSl-2WQH2HN31S0u0b-1" value="Storage Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m-YDHfMAcOi2if4RnbMK-0" value="Enrich, Vectorize, Index dan Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="420" y="140" width="120" height="60" as="geometry" />
