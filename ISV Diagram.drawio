@@ -178,7 +178,7 @@
         <mxCell id="m-YDHfMAcOi2if4RnbMK-0" value="Enrich, Vectorize, Index dan Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="420" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m-YDHfMAcOi2if4RnbMK-1" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+        <mxCell id="m-YDHfMAcOi2if4RnbMK-1" value="Business Intelligence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="420" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m-YDHfMAcOi2if4RnbMK-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="kqRSl-2WQH2HN31S0u0b-0" target="kqRSl-2WQH2HN31S0u0b-1">
@@ -222,6 +222,12 @@
             <mxPoint x="390" y="370" as="sourcePoint" />
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m-YDHfMAcOi2if4RnbMK-12" value="Open AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="450" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m-YDHfMAcOi2if4RnbMK-13" value="Sharepoint and blob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="220" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
