@@ -280,7 +280,7 @@
         <mxCell id="m-YDHfMAcOi2if4RnbMK-13" value="Sharepoint and blob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
           <mxGeometry x="250" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XrO9UwghG9odit5ctxF6-0" value="&lt;b&gt;Flow Diagram&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+        <mxCell id="XrO9UwghG9odit5ctxF6-0" value="&lt;b&gt;Flow Diagram AI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="360" y="20" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
