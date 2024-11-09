@@ -191,6 +191,27 @@
         <mxCell id="Yc0ohyYwUue-tP3Tmsz0-11" value="Campaign and Marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yc0ohyYwUue-tP3Tmsz0-5">
           <mxGeometry x="42.5" y="442.5" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-12" value="" style="group" vertex="1" connectable="0" parent="GnO7oN7-yZS1G5JcIBq4-1">
+          <mxGeometry x="700" y="50" width="232.5" height="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-13" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="Yc0ohyYwUue-tP3Tmsz0-12">
+          <mxGeometry x="-165" y="165" width="562.5" height="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-14" value="Portfolio and Asset Data (Structured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yc0ohyYwUue-tP3Tmsz0-12">
+          <mxGeometry x="42.5" y="12.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-15" value="Previous meeting calls and transcript data tentang kerjaan, hukum dan lain lain konsultasi lah tibanya (Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yc0ohyYwUue-tP3Tmsz0-12">
+          <mxGeometry x="42.5" y="102.5" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-16" value="Source Knowledge Repository, draft proposal, and etc (Unstructured data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yc0ohyYwUue-tP3Tmsz0-12">
+          <mxGeometry x="42.5" y="212.5" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-17" value="Invoice Source ( Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yc0ohyYwUue-tP3Tmsz0-12">
+          <mxGeometry x="42.5" y="332.5" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-18" value="Campaign and Marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yc0ohyYwUue-tP3Tmsz0-12">
+          <mxGeometry x="42.5" y="442.5" width="140" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
