@@ -140,6 +140,9 @@
       <root>
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-0" />
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-1" parent="GnO7oN7-yZS1G5JcIBq4-0" />
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+          <mxGeometry x="122.5" y="212.5" width="562.5" height="232.5" as="geometry" />
+        </mxCell>
         <mxCell id="GDZB9uSVZSDb9YgSg5_9-0" value="Portfolio and Asset Data (Structured Data)" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="330" y="60" width="140" height="70" as="geometry" />
         </mxCell>
@@ -157,6 +160,12 @@
         </mxCell>
         <mxCell id="Yc0ohyYwUue-tP3Tmsz0-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
           <mxGeometry x="10" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yc0ohyYwUue-tP3Tmsz0-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.487;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GnO7oN7-yZS1G5JcIBq4-1" source="Yc0ohyYwUue-tP3Tmsz0-0" target="Yc0ohyYwUue-tP3Tmsz0-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
