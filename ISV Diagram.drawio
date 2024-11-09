@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.3" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.4" pages="14">
   <diagram name="Main" id="lsRAPk8epdy8I-OjBECe">
     <mxGraphModel dx="1346" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,30 +135,30 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Main" id="CQ_aiBZu0D-VB5VW0tHb">
-    <mxGraphModel dx="1453" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Use Case" id="CQ_aiBZu0D-VB5VW0tHb">
+    <mxGraphModel dx="1744" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-0" />
         <mxCell id="GnO7oN7-yZS1G5JcIBq4-1" parent="GnO7oN7-yZS1G5JcIBq4-0" />
-        <mxCell id="GDZB9uSVZSDb9YgSg5_9-0" value="Portfolio and Asset Data (Structured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="GDZB9uSVZSDb9YgSg5_9-0" value="Portfolio and Asset Data (Structured Data)" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="40" y="80" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GDZB9uSVZSDb9YgSg5_9-1" value="Previous meeting calls and transcript data tentang kerjaan, hukum dan lain lain konsultasi lah tibanya (Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="GDZB9uSVZSDb9YgSg5_9-1" value="Previous meeting calls and transcript data tentang kerjaan, hukum dan lain lain konsultasi lah tibanya (Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="40" y="170" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GDZB9uSVZSDb9YgSg5_9-2" value="Source Knowledge Repository, draft proposal, and etc (Unstructured data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="GDZB9uSVZSDb9YgSg5_9-2" value="Source Knowledge Repository, draft proposal, and etc (Unstructured data)" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="40" y="280" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xYEkxMrbQmGV3ljcZIsH-0" value="Invoice Source ( Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="xYEkxMrbQmGV3ljcZIsH-0" value="Invoice Source ( Unstructured Data)" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="40" y="400" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8AYnzW_t1eya-8k0bTI7-0" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="8AYnzW_t1eya-8k0bTI7-0" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="680" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b20DuxpkeWqnIMwyAYlx-0" value="Campaign and Marketing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="b20DuxpkeWqnIMwyAYlx-0" value="Campaign and Marketing" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="40" y="510" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b20DuxpkeWqnIMwyAYlx-1" value="Storage Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GnO7oN7-yZS1G5JcIBq4-1">
+        <mxCell id="b20DuxpkeWqnIMwyAYlx-1" value="Storage Account" style="rounded=1;whiteSpace=wrap;html=1;" parent="GnO7oN7-yZS1G5JcIBq4-1" vertex="1">
           <mxGeometry x="270" y="295" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
