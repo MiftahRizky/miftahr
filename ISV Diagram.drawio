@@ -340,12 +340,6 @@
             <mxPoint x="460" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-1" target="btwYqqKEloyW0rw5XTmC-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="365" as="sourcePoint" />
-            <mxPoint x="560" y="315" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-14" target="btwYqqKEloyW0rw5XTmC-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="365" as="sourcePoint" />
@@ -375,12 +369,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-45" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="289.5" y="80" width="87" height="60" as="geometry" />
+          <mxGeometry x="150" y="80" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-2" target="btwYqqKEloyW0rw5XTmC-45">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-1" target="btwYqqKEloyW0rw5XTmC-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="260" as="sourcePoint" />
             <mxPoint x="370" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-14" target="btwYqqKEloyW0rw5XTmC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
