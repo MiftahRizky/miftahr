@@ -287,7 +287,7 @@
           <mxGeometry x="334" y="870" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9xpAZxoNPv0-HjzJfJyX-1" value="Data Source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="43" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="43" y="80" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
