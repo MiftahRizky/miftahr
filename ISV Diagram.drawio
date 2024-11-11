@@ -220,6 +220,9 @@
       <root>
         <mxCell id="0CqBft0WvhFZiUzywnTC-0" />
         <mxCell id="0CqBft0WvhFZiUzywnTC-1" parent="0CqBft0WvhFZiUzywnTC-0" />
+        <mxCell id="btwYqqKEloyW0rw5XTmC-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="90" y="410" width="350" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="190" y="45" width="160" height="450" as="geometry" />
         </mxCell>
@@ -320,10 +323,10 @@
           <mxGeometry x="221.5" y="185" width="97" height="45" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-17" value="Azure Open AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="156" y="390" width="87" height="60" as="geometry" />
+          <mxGeometry x="156" y="435" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-18" value="Azure AI Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="297" y="390" width="87" height="60" as="geometry" />
+          <mxGeometry x="297" y="435" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
