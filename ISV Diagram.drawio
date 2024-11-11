@@ -310,6 +310,9 @@
         <mxCell id="btwYqqKEloyW0rw5XTmC-5" value="Azure Multi-Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="327" y="180" width="87" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="550" y="180" width="87" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
