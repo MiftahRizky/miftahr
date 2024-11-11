@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="System 1" id="78frEdrwiz2-Jq4PZx6r">
-    <mxGraphModel dx="1114" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0CqBft0WvhFZiUzywnTC-0" />
         <mxCell id="0CqBft0WvhFZiUzywnTC-1" parent="0CqBft0WvhFZiUzywnTC-0" />
@@ -228,9 +228,6 @@
         </mxCell>
         <mxCell id="XrO9UwghG9odit5ctxF6-0" value="&lt;b&gt;Flow Diagram AI General&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
           <mxGeometry x="333" y="20" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9xpAZxoNPv0-HjzJfJyX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="10" y="60" width="160" height="500" as="geometry" />
         </mxCell>
         <mxCell id="9xpAZxoNPv0-HjzJfJyX-5" value="App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="660" y="60" width="87" height="60" as="geometry" />
@@ -328,9 +325,9 @@
         <mxCell id="m-YDHfMAcOi2if4RnbMK-12" value="Open AI and Phyton" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="btwYqqKEloyW0rw5XTmC-24" vertex="1">
           <mxGeometry x="430" y="-10" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.995;exitY=0.481;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="9xpAZxoNPv0-HjzJfJyX-1" target="btwYqqKEloyW0rw5XTmC-1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.001;exitY=0.488;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-55" target="btwYqqKEloyW0rw5XTmC-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="375" as="sourcePoint" />
+            <mxPoint x="169.20000000000005" y="300.5000000000001" as="sourcePoint" />
             <mxPoint x="530" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -368,7 +365,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-55" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sharepoint and Onedrive&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Document&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Spreadsheet&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="20" y="160" width="140" height="160" as="geometry" />
+          <mxGeometry x="20" y="220" width="140" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
