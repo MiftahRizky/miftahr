@@ -254,7 +254,7 @@
           <mxGeometry x="420" y="270" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-16" value="Microsoft Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="298.5" y="215" width="97" height="45" as="geometry" />
+          <mxGeometry x="283" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-17" value="Azure Open AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="216" y="470" width="87" height="60" as="geometry" />
@@ -375,6 +375,12 @@
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-45" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="289.5" y="80" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-45" target="btwYqqKEloyW0rw5XTmC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
