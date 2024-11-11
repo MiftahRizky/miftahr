@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="System 1" id="78frEdrwiz2-Jq4PZx6r">
-    <mxGraphModel dx="1106" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2212" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0CqBft0WvhFZiUzywnTC-0" />
         <mxCell id="0CqBft0WvhFZiUzywnTC-1" parent="0CqBft0WvhFZiUzywnTC-0" />
@@ -327,6 +327,12 @@
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-18" value="Azure AI Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="297" y="435" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" target="btwYqqKEloyW0rw5XTmC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="262.5" y="410" as="sourcePoint" />
+            <mxPoint x="267.5" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
