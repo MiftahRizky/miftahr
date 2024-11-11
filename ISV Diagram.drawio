@@ -296,7 +296,7 @@
           <mxGeometry x="156" y="80" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9xpAZxoNPv0-HjzJfJyX-5" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="720" y="180" width="87" height="60" as="geometry" />
+          <mxGeometry x="720" y="170" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-1" value="Azure AI Search&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Storage%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22150%22%20y%3D%2280%22%20width%3D%2287%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="326" y="90" width="87" height="60" as="geometry" />
@@ -311,7 +311,7 @@
           <mxGeometry x="327" y="180" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="533" y="90" width="87" height="60" as="geometry" />
+          <mxGeometry x="550" y="170" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-2" target="btwYqqKEloyW0rw5XTmC-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
