@@ -319,6 +319,12 @@
         <mxCell id="btwYqqKEloyW0rw5XTmC-16" value="Microsoft Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="221.5" y="185" width="97" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-17" value="Azure Open AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="156" y="390" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-18" value="Azure Open Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="297" y="390" width="87" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
