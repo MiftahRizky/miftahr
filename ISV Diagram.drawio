@@ -221,7 +221,7 @@
         <mxCell id="0CqBft0WvhFZiUzywnTC-0" />
         <mxCell id="0CqBft0WvhFZiUzywnTC-1" parent="0CqBft0WvhFZiUzywnTC-0" />
         <mxCell id="btwYqqKEloyW0rw5XTmC-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="290" y="60" width="160" height="430" as="geometry" />
+          <mxGeometry x="290" y="50" width="160" height="370" as="geometry" />
         </mxCell>
         <mxCell id="kqRSl-2WQH2HN31S0u0b-0" value="Data Source" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
           <mxGeometry x="43" y="570" width="120" height="60" as="geometry" />
@@ -299,16 +299,16 @@
           <mxGeometry x="730" y="70" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-1" value="Azure AI Search&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Storage%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22150%22%20y%3D%2280%22%20width%3D%2287%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="326.5" y="130" width="87" height="60" as="geometry" />
+          <mxGeometry x="326" y="90" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-3" value="AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="340" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-4" value="Azure AI Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="326" y="340" width="87" height="60" as="geometry" />
+          <mxGeometry x="327" y="280" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-5" value="Azure AI Search&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Storage%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22150%22%20y%3D%2280%22%20width%3D%2287%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="326.5" y="240" width="87" height="60" as="geometry" />
+          <mxGeometry x="327" y="180" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
