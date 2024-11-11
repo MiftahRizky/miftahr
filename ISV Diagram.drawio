@@ -374,7 +374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-45" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="289.5" y="110" width="87" height="60" as="geometry" />
+          <mxGeometry x="289.5" y="80" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
