@@ -367,13 +367,13 @@
             <mxPoint x="390" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-54" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-54" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="43" y="90" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-55" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-55" value="Spreadsheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="43" y="180" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-56" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-56" value="Document" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="43" y="275" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-57" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
