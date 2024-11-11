@@ -310,10 +310,10 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-14" value="One Lake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-14" value="Notebook" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="210" y="240" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-15" value="One Lake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-15" value="Azure AI Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="334" y="240" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-16" value="Microsoft Fabric" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
