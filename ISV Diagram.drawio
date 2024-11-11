@@ -298,6 +298,9 @@
         <mxCell id="btwYqqKEloyW0rw5XTmC-1" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="300" y="80" width="87" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="270" y="70" width="260" height="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
