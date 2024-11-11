@@ -304,9 +304,6 @@
         <mxCell id="btwYqqKEloyW0rw5XTmC-3" value="AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="340" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-4" value="Azure AI Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="327" y="270" width="87" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-5" value="Azure Multi-Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="327" y="180" width="87" height="60" as="geometry" />
         </mxCell>
