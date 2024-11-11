@@ -301,8 +301,8 @@
         <mxCell id="btwYqqKEloyW0rw5XTmC-1" value="One Lake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="90" y="240" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="633" y="240" width="87" height="60" as="geometry" />
+        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Azure AI Studio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="630" y="240" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-9" target="9xpAZxoNPv0-HjzJfJyX-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
