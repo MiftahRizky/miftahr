@@ -334,6 +334,9 @@
         <mxCell id="m-YDHfMAcOi2if4RnbMK-13" value="Sharepoint and blob" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="btwYqqKEloyW0rw5XTmC-24" vertex="1">
           <mxGeometry x="230" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-26" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="630" y="460" width="87" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
