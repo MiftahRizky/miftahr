@@ -480,6 +480,12 @@
         <mxCell id="HImOY4Ebt5A-36NOupya-38" value="Viability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
           <mxGeometry x="755" y="-1130" width="160" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="HImOY4Ebt5A-36NOupya-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="0gb1NbnhwBnL-h9OINhj-1" source="HImOY4Ebt5A-36NOupya-12" target="HImOY4Ebt5A-36NOupya-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-760" as="sourcePoint" />
+            <mxPoint x="440" y="-810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
