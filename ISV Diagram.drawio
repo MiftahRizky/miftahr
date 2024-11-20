@@ -378,6 +378,9 @@
         <mxCell id="HImOY4Ebt5A-36NOupya-0" value="Kerangka Berfikir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
           <mxGeometry x="354" y="-1160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HImOY4Ebt5A-36NOupya-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
+          <mxGeometry x="100" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
