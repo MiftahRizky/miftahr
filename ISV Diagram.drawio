@@ -477,8 +477,8 @@
         <mxCell id="HImOY4Ebt5A-36NOupya-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
           <mxGeometry x="860" y="-879" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HImOY4Ebt5A-36NOupya-38" value="Visibility Sumber Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
-          <mxGeometry x="270" y="-1120" width="160" height="51" as="geometry" />
+        <mxCell id="HImOY4Ebt5A-36NOupya-38" value="Viability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
+          <mxGeometry x="755" y="-1130" width="160" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
