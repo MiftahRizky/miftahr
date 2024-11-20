@@ -451,10 +451,10 @@
           <mxGeometry x="370" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HImOY4Ebt5A-36NOupya-28" value="Visibility Sumber Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
-          <mxGeometry x="260" y="-1130" width="160" height="51" as="geometry" />
+          <mxGeometry x="290" y="-1130" width="110" height="51" as="geometry" />
         </mxCell>
         <mxCell id="HImOY4Ebt5A-36NOupya-30" value="Visibility Hasil Permintaan Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
-          <mxGeometry x="265" y="-750" width="160" height="51" as="geometry" />
+          <mxGeometry y="-560" width="130" height="51" as="geometry" />
         </mxCell>
         <mxCell id="HImOY4Ebt5A-36NOupya-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
           <mxGeometry x="640" y="-1069" width="390" height="280" as="geometry" />
