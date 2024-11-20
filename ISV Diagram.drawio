@@ -371,7 +371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of System 1" id="KGJytriJ0HE5Dakvx5mx">
-    <mxGraphModel dx="1769" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2596" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0gb1NbnhwBnL-h9OINhj-0" />
         <mxCell id="0gb1NbnhwBnL-h9OINhj-1" parent="0gb1NbnhwBnL-h9OINhj-0" />
@@ -382,13 +382,13 @@
           <mxGeometry x="530" y="-1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HImOY4Ebt5A-36NOupya-1" value="Yang diinginkan customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
-          <mxGeometry x="10" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="-380" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HImOY4Ebt5A-36NOupya-2" value="&lt;div&gt;data dari dokumen, gambar dan data terstruktur&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
-          <mxGeometry x="10" y="-880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HImOY4Ebt5A-36NOupya-3" value="Berkaitan dengan data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
-          <mxGeometry x="10" y="-960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="-960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HImOY4Ebt5A-36NOupya-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0gb1NbnhwBnL-h9OINhj-1">
           <mxGeometry x="190" y="-960" width="120" height="60" as="geometry" />
