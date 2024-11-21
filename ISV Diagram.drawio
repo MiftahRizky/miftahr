@@ -481,7 +481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Step 1" id="wEXR8go24bZy78mwmGwm">
-    <mxGraphModel dx="1074" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2149" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KJlCMLgnTblBi6V4xJmq-0" />
         <mxCell id="KJlCMLgnTblBi6V4xJmq-1" parent="KJlCMLgnTblBi6V4xJmq-0" />
@@ -492,7 +492,7 @@
           <mxGeometry x="240" y="-1070" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-1" value="Kerangka Berfikir" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="750" y="-1169" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="-1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-2" value="Yang diinginkan customer" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
           <mxGeometry x="10" y="-1079" width="120" height="60" as="geometry" />
