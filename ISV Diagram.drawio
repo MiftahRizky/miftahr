@@ -599,16 +599,16 @@
           <mxGeometry x="530" y="10" width="647.41" height="358" as="geometry" />
         </mxCell>
         <mxCell id="8eCJOdgmkR7YqnCCZqF--3" value="Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
-          <mxGeometry x="220" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8eCJOdgmkR7YqnCCZqF--4" value="Data Pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
-          <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8eCJOdgmkR7YqnCCZqF--5" value="AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
-          <mxGeometry x="560" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8eCJOdgmkR7YqnCCZqF--6" value="App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
-          <mxGeometry x="730" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
