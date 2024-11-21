@@ -481,7 +481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Step 1" id="wEXR8go24bZy78mwmGwm">
-    <mxGraphModel dx="2149" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2735" dy="2618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KJlCMLgnTblBi6V4xJmq-0" />
         <mxCell id="KJlCMLgnTblBi6V4xJmq-1" parent="KJlCMLgnTblBi6V4xJmq-0" />
@@ -543,28 +543,28 @@
           <mxGeometry x="380" y="-1130" width="110" height="51" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="800" y="-789.5" width="390" height="280" as="geometry" />
+          <mxGeometry x="800" y="-739" width="390" height="280" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="840" y="-679.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="-629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="1020" y="-679.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="-629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="840" y="-599.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="-549" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="840" y="-759.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="-709" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="1020" y="-759.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="-709" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="1020" y="-599.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="-549" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-27" value="Orchestration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
-          <mxGeometry x="915" y="-850.5" width="160" height="51" as="geometry" />
+          <mxGeometry x="915" y="-800" width="160" height="51" as="geometry" />
         </mxCell>
         <mxCell id="heJkvSQfz5oomm5JAKF2-32" value="App" style="rounded=1;whiteSpace=wrap;html=1;" parent="KJlCMLgnTblBi6V4xJmq-1" vertex="1">
           <mxGeometry x="1280" y="-679.5" width="120" height="60" as="geometry" />
