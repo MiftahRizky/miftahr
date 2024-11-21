@@ -481,7 +481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Step 1" id="wEXR8go24bZy78mwmGwm">
-    <mxGraphModel dx="2149" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KJlCMLgnTblBi6V4xJmq-0" />
         <mxCell id="KJlCMLgnTblBi6V4xJmq-1" parent="KJlCMLgnTblBi6V4xJmq-0" />
@@ -595,6 +595,9 @@
       <root>
         <mxCell id="DifUVk5ruZ34ef0aDxp9-0" />
         <mxCell id="DifUVk5ruZ34ef0aDxp9-1" parent="DifUVk5ruZ34ef0aDxp9-0" />
+        <mxCell id="8eCJOdgmkR7YqnCCZqF--0" value="Prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
+          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
