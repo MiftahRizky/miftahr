@@ -610,6 +610,9 @@
         <mxCell id="8eCJOdgmkR7YqnCCZqF--6" value="App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
           <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8eCJOdgmkR7YqnCCZqF--7" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
