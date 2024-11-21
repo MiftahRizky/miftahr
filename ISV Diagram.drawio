@@ -591,7 +591,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Step 2" id="4IXvWx9uXwz2X9LHYD3q">
-    <mxGraphModel dx="1203" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DifUVk5ruZ34ef0aDxp9-0" />
         <mxCell id="DifUVk5ruZ34ef0aDxp9-1" parent="DifUVk5ruZ34ef0aDxp9-0" />
@@ -614,12 +614,6 @@
           <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8eCJOdgmkR7YqnCCZqF--8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DifUVk5ruZ34ef0aDxp9-1" source="8eCJOdgmkR7YqnCCZqF--3" target="8eCJOdgmkR7YqnCCZqF--4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="620" as="sourcePoint" />
-            <mxPoint x="400" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8eCJOdgmkR7YqnCCZqF--9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="DifUVk5ruZ34ef0aDxp9-1" source="8eCJOdgmkR7YqnCCZqF--4" target="8eCJOdgmkR7YqnCCZqF--5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="620" as="sourcePoint" />
             <mxPoint x="400" y="570" as="targetPoint" />
@@ -648,6 +642,12 @@
         </mxCell>
         <mxCell id="rthFFf0uNEWzyMM25v5b-1" value="For AI Search, Azure Open AI Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
           <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rthFFf0uNEWzyMM25v5b-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.513;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DifUVk5ruZ34ef0aDxp9-1" source="8eCJOdgmkR7YqnCCZqF--4" target="8eCJOdgmkR7YqnCCZqF--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="440" as="sourcePoint" />
+            <mxPoint x="430" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
