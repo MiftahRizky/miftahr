@@ -646,6 +646,9 @@
         <mxCell id="rthFFf0uNEWzyMM25v5b-0" value="For Quality Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
           <mxGeometry x="205" y="420" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rthFFf0uNEWzyMM25v5b-1" value="For AI Search, Azure Open AI Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DifUVk5ruZ34ef0aDxp9-1">
+          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
