@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="System 1" id="78frEdrwiz2-Jq4PZx6r">
-    <mxGraphModel dx="2064" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0CqBft0WvhFZiUzywnTC-0" />
         <mxCell id="0CqBft0WvhFZiUzywnTC-1" parent="0CqBft0WvhFZiUzywnTC-0" />
@@ -234,9 +234,6 @@
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-1" value="One Lake" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
           <mxGeometry x="220" y="270" width="87" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Orchestration Function Calling" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
-          <mxGeometry x="660" y="270" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="0CqBft0WvhFZiUzywnTC-1" source="TMqrmRKRMISLZyS-0WCK-3" target="9xpAZxoNPv0-HjzJfJyX-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -277,7 +274,7 @@
             <mxPoint x="630" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-15" target="btwYqqKEloyW0rw5XTmC-9" edge="1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.051;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-15" target="TMqrmRKRMISLZyS-0WCK-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="275" as="sourcePoint" />
             <mxPoint x="630" y="225" as="targetPoint" />
@@ -367,14 +364,11 @@
         <mxCell id="TMqrmRKRMISLZyS-0WCK-2" value="&lt;b&gt;Flow Diagram AI General&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
           <mxGeometry x="323" y="710" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TMqrmRKRMISLZyS-0WCK-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-9" target="TMqrmRKRMISLZyS-0WCK-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="704" y="270" as="sourcePoint" />
-            <mxPoint x="704" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TMqrmRKRMISLZyS-0WCK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="653" y="230" width="137" height="160" as="geometry" />
+          <mxGeometry x="636" y="225" width="137" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Orchestration Function Calling" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
+          <mxGeometry x="653" y="270" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
