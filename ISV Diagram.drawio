@@ -235,7 +235,7 @@
         <mxCell id="btwYqqKEloyW0rw5XTmC-1" value="One Lake" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
           <mxGeometry x="220" y="270" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Azure AI Studio" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Orchestration Function Calling" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
           <mxGeometry x="660" y="270" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btwYqqKEloyW0rw5XTmC-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-9" target="9xpAZxoNPv0-HjzJfJyX-5" edge="1">
