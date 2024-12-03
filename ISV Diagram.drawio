@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="System 1" id="78frEdrwiz2-Jq4PZx6r">
-    <mxGraphModel dx="1002" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0CqBft0WvhFZiUzywnTC-0" />
         <mxCell id="0CqBft0WvhFZiUzywnTC-1" parent="0CqBft0WvhFZiUzywnTC-0" />
@@ -274,7 +274,7 @@
             <mxPoint x="630" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.051;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-15" target="TMqrmRKRMISLZyS-0WCK-3" edge="1">
+        <mxCell id="btwYqqKEloyW0rw5XTmC-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" parent="0CqBft0WvhFZiUzywnTC-1" source="btwYqqKEloyW0rw5XTmC-15" target="TMqrmRKRMISLZyS-0WCK-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="275" as="sourcePoint" />
             <mxPoint x="630" y="225" as="targetPoint" />
@@ -365,10 +365,16 @@
           <mxGeometry x="323" y="710" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMqrmRKRMISLZyS-0WCK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
-          <mxGeometry x="636" y="225" width="174" height="160" as="geometry" />
+          <mxGeometry x="620" y="225" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Orchestration Function Calling" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
-          <mxGeometry x="653" y="270" width="87" height="60" as="geometry" />
+        <mxCell id="btwYqqKEloyW0rw5XTmC-9" value="Azure Function" style="rounded=1;whiteSpace=wrap;html=1;" parent="0CqBft0WvhFZiUzywnTC-1" vertex="1">
+          <mxGeometry x="630" y="230" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMqrmRKRMISLZyS-0WCK-5" value="Azure Open AI Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="730" y="230" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TMqrmRKRMISLZyS-0WCK-6" value="Semantic Kernel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0CqBft0WvhFZiUzywnTC-1">
+          <mxGeometry x="676.5" y="310" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
